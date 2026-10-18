@@ -1,0 +1,3368 @@
+[
+  {
+    "name": "21bitcoin",
+    "licenceCountry": "AT",
+    "website": "https://www.21bitcoin.app",
+    "careersUrl": "https://21bitcoin.app/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "360 Treasury Systems AG",
+    "licenceCountry": "DE",
+    "website": "https://www.360t.com",
+    "careersUrl": "https://www.360t.com/careers/",
+    "ats": "personio",
+    "slug": "360t",
+    "status": "ok"
+  },
+  {
+    "name": "Acheron | Acheron Trading",
+    "licenceCountry": "NL",
+    "website": "https://www.acherontrading.com",
+    "careersUrl": "https://www.acherontrading.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "AK JENSEN NORWAY AS",
+    "licenceCountry": "NO",
+    "website": "https://www.akj.com",
+    "careersUrl": "https://www.akj.com/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Alaric Securities",
+    "licenceCountry": "BG",
+    "website": "https://alaricsecurities.com",
+    "careersUrl": "https://alaricsecurities.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ALPHACAP",
+    "licenceCountry": "FR",
+    "website": "https://alphacap.fr",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "AlphaRoute",
+    "licenceCountry": "LV",
+    "website": "https://www.kangaexchange.eu",
+    "careersUrl": "https://www.linkedin.com/company/kanga-eu/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Altarius Asset Management Limited",
+    "licenceCountry": "MT",
+    "website": "https://www.altariusgroup.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Altcoins",
+    "licenceCountry": "BG",
+    "website": "https://altcoins.bg",
+    "careersUrl": "https://altcoins.bg/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Altlift s.r.o.",
+    "licenceCountry": "CZ",
+    "website": null,
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Amdax B.V.|Amdax Group|Novelist",
+    "licenceCountry": "NL",
+    "website": "https://www.amdax.com/nl",
+    "careersUrl": "https://amdax.recruitee.com",
+    "ats": "recruitee",
+    "slug": "amdax",
+    "status": "ok"
+  },
+  {
+    "name": "AMINA EU",
+    "licenceCountry": "AT",
+    "website": "https://eu.aminagroup.com",
+    "careersUrl": "https://eu.aminagroup.com/careers/",
+    "ats": "personio",
+    "slug": "amina",
+    "status": "ok"
+  },
+  {
+    "name": "AnCeKa Vermögensbetreuungs Aktiengesellschaft",
+    "licenceCountry": "DE",
+    "website": "https://www.anceka.de",
+    "careersUrl": "https://www.anceka.de/stellenangebote/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "APLO",
+    "licenceCountry": "FR",
+    "website": "https://www.aplo.io",
+    "careersUrl": "https://www.aplo.io/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Aquilla Nummus Ltd",
+    "licenceCountry": "CY",
+    "website": "https://www.aquillanummus.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Ari10 | Ari10 NL | WEB3 Technology B.V. | RGLTD Cashify",
+    "licenceCountry": "NL",
+    "website": "https://ari10.com/en",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "AS LHV Pank",
+    "licenceCountry": "EE",
+    "website": "https://www.lhv.ee",
+    "careersUrl": "https://www.lhv.ee/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Atrya Technologies SIA",
+    "licenceCountry": "LV",
+    "website": "https://www.hansepay.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "AvianLabs Netherlands B.V.",
+    "licenceCountry": "NL",
+    "website": "https://sling.money",
+    "careersUrl": "https://morsemoney.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "B2C2",
+    "licenceCountry": "LU",
+    "website": "https://www.b2c2.com",
+    "careersUrl": "https://www.b2c2.com/join-b2c2/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Baader Bank AG",
+    "licenceCountry": "DE",
+    "website": "https://www.baaderbank.de",
+    "careersUrl": "https://www.baaderbank.de/karriere/senior-credit-risk-manager-mwd",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Backpack EU",
+    "licenceCountry": "LV",
+    "website": "https://eu.backpack.exchange",
+    "careersUrl": "https://www.linkedin.com/company/backpackexchange/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Baden-Württembergische Wertpapierbörse GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.bsdex.de/de",
+    "careersUrl": "https://www.bsdex.de/de/jobs/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Banca Sella",
+    "licenceCountry": "IT",
+    "website": "https://www.sella.it",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bank Frick AG",
+    "licenceCountry": "LI",
+    "website": "https://www.bankfrick.li/en",
+    "careersUrl": "https://www.linkedin.com/company/bank-frick/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bankhaus Scheich Wertpapierspezialist AG",
+    "licenceCountry": "DE",
+    "website": "https://www.bankhaus-scheich.de",
+    "careersUrl": "https://www.bankhaus-scheich.de/karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Banking Circle",
+    "licenceCountry": "LU",
+    "website": "https://bankingcircle.com",
+    "careersUrl": "https://www.bankingcircle.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BANQUE DELUBAC",
+    "licenceCountry": "FR",
+    "website": "https://www.delubac.com",
+    "careersUrl": "https://www.delubac.com/carrieres/offres-emploi/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BARE BITCOIN AS",
+    "licenceCountry": "NO",
+    "website": "https://barebitcoin.no",
+    "careersUrl": "https://www.linkedin.com/company/bare-bitcoin/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BBVA",
+    "licenceCountry": "ES",
+    "website": "https://www.bbva.es",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "BCASH",
+    "licenceCountry": "GR",
+    "website": "https://www.bcash.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Belayer",
+    "licenceCountry": "BG",
+    "website": "https://www.belayer.bg",
+    "careersUrl": "https://www.linkedin.com/company/wix-com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bequant",
+    "licenceCountry": "MT",
+    "website": "https://bequant.pro",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "BingX EU",
+    "licenceCountry": "AT",
+    "website": "https://www.bingx.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bison Bank",
+    "licenceCountry": "PT",
+    "website": "https://bisonbank.com",
+    "careersUrl": "https://bisonbank.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bit2Me",
+    "licenceCountry": "ES",
+    "website": "https://bit2me.com",
+    "careersUrl": "https://empleo.bit2me.com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BITCOIN STORE",
+    "licenceCountry": "HR",
+    "website": "https://www.bitstore.net",
+    "careersUrl": "https://www.linkedin.com/company/digital-assets-hr/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bitcoin Suisse (Europe) AG",
+    "licenceCountry": "LI",
+    "website": "https://www.bitcoinsuisse.com",
+    "careersUrl": "https://bitcoinsuisse.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BITCOINMAT",
+    "licenceCountry": "SK",
+    "website": "https://bitcoinmat.sk",
+    "careersUrl": "https://bitcoinmat.sk/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "bitFlyer EUROPE",
+    "licenceCountry": "LU",
+    "website": "https://bitflyer.com/en-eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "BitGo Europe GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.bitgo.de/entities/bitgoeuropegmbh",
+    "careersUrl": "https://www.bitgo.de/company/careers/",
+    "ats": "greenhouse",
+    "slug": "bitgo",
+    "status": "ok"
+  },
+  {
+    "name": "Bitmymoney B.V.",
+    "licenceCountry": "NL",
+    "website": "https://www.bitmymoney.com",
+    "careersUrl": "https://www.linkedin.com/company/bitmymoney-bv/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bitonic B.V.",
+    "licenceCountry": "NL",
+    "website": "https://bitonic.nl/en",
+    "careersUrl": "https://bitonic.nl/en/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bitpanda",
+    "licenceCountry": "AT",
+    "website": "https://www.bitpanda.com",
+    "careersUrl": "https://group.bitpanda.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bitpanda Asset Management GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.bitpanda.com",
+    "careersUrl": "https://group.bitpanda.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BitPay B.V.",
+    "licenceCountry": "NL",
+    "website": "https://www.bitpay.com",
+    "careersUrl": "https://www.bitpay.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BITSTACK",
+    "licenceCountry": "FR",
+    "website": "https://bitstack-app.com",
+    "careersUrl": "https://www.linkedin.com/company/bitstack-app/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BitStaete B.V.",
+    "licenceCountry": "NL",
+    "website": "https://bitstaete.nl",
+    "careersUrl": "https://www.linkedin.com/company/bitstaete/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bitstamp",
+    "licenceCountry": "LU",
+    "website": "https://www.bitstamp.net",
+    "careersUrl": "https://www.bitstamp.net/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bittimaatti",
+    "licenceCountry": "FI",
+    "website": "https://bittimaatti.fi",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bitvavo B.V.",
+    "licenceCountry": "NL",
+    "website": "https://bitvavo.com/nl",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bleap",
+    "licenceCountry": "LV",
+    "website": "https://www.bleap.finance",
+    "careersUrl": "https://www.bleap.finance/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BlockBen",
+    "licenceCountry": "LV",
+    "website": "https://blockben.com/en",
+    "careersUrl": "https://blockben.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Blockchain.com",
+    "licenceCountry": "MT",
+    "website": "https://www.blockchain.com",
+    "careersUrl": "https://www.blockchain.com/careers?utm_source=bcdc&amp;utm_medium=footer&amp;utm_campaign=footer_careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Blockrise",
+    "licenceCountry": "NL",
+    "website": "https://www.blockrise.com/en",
+    "careersUrl": "https://blockrise.jobs.personio.com",
+    "ats": "personio",
+    "slug": "blockrise",
+    "status": "ok"
+  },
+  {
+    "name": "BLOX B.V.",
+    "licenceCountry": "NL",
+    "website": "https://weareblox.com",
+    "careersUrl": "https://www.linkedin.com/company/weareblox/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BLUE EMI",
+    "licenceCountry": "LT",
+    "website": "https://blueemi.com",
+    "careersUrl": "https://blueemi.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BNY",
+    "licenceCountry": "BE",
+    "website": "https://www.bny.com",
+    "careersUrl": "https://www.bny.com/corporate/global/en/about-us/careers/experienced-professionals.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Boerse Stuttgart Digital Custody GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.bsdigital.com",
+    "careersUrl": "https://www.bsdigital.com/en/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Bpifrance Investissement",
+    "licenceCountry": "FR",
+    "website": "https://www.bpifrance.fr",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bridge",
+    "licenceCountry": "LU",
+    "website": "https://www.bridge.xyz",
+    "careersUrl": "https://stripe.com/careers/search?tags=Bridge",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BTC Direct Europe B.V.",
+    "licenceCountry": "NL",
+    "website": "https://my.btcdirect.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Bullish Europe GmbH",
+    "licenceCountry": "DE",
+    "website": "https://bullish.com/home-de",
+    "careersUrl": "https://www.bullish.com/us/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BV & P Vermögen AG",
+    "licenceCountry": "DE",
+    "website": "https://www.bvp-vermoegen.de",
+    "careersUrl": "https://bvp-vermoegen.de/bvp-vermoegen/jobs-karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "BVNK",
+    "licenceCountry": "MT",
+    "website": "https://bvnk.com",
+    "careersUrl": "https://www.bvnk.com/careers",
+    "ats": "greenhouse",
+    "slug": "bvnk",
+    "status": "ok"
+  },
+  {
+    "name": "Bybit",
+    "licenceCountry": "AT",
+    "website": "https://www.bybit.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "CACEIS BANK",
+    "licenceCountry": "FR",
+    "website": "https://www.caceis.com",
+    "careersUrl": "https://www.caceis.com/who-we-are/join-us",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CAIXABANK",
+    "licenceCountry": "ES",
+    "website": "https://caixabank.es",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "error"
+  },
+  {
+    "name": "Calamatta Cuschieri Investment Services Limited",
+    "licenceCountry": "MT",
+    "website": "https://cc.com.mt",
+    "careersUrl": "https://moneybase.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CAPITAL WALLET SA CAPITAL WALLET CAPITAL WALLET GREECE",
+    "licenceCountry": "GR",
+    "website": "https://www.capitalwallet.com/eu",
+    "careersUrl": "https://www.linkedin.com/company/capitalwalletglobal/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "capital.com",
+    "licenceCountry": "CY",
+    "website": "https://www.capital.com",
+    "careersUrl": "https://capital.com/en-int/about-us/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CECABANK",
+    "licenceCountry": "ES",
+    "website": "https://www.cecabank.es",
+    "careersUrl": "https://www.linkedin.com/company/Cecabank/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Celsion Bank AG",
+    "licenceCountry": "LI",
+    "website": "https://www.celsion-finance.com",
+    "careersUrl": "https://celsion-bank.com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Change",
+    "licenceCountry": "NL",
+    "website": "https://www.changeinvest.com",
+    "careersUrl": "https://careers.changeinvest.com/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CheckSig",
+    "licenceCountry": "IT",
+    "website": "https://www.checksig.com",
+    "careersUrl": "https://www.linkedin.com/company/checksig/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CIRCLE",
+    "licenceCountry": "FR",
+    "website": "https://www.circle.com/en",
+    "careersUrl": "https://www.linkedin.com/company/circle-internet-financial/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ClearBank Europe B.V.",
+    "licenceCountry": "NL",
+    "website": "https://clear.bank",
+    "careersUrl": "https://www.linkedin.com/company/clear.bank/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Clearstream",
+    "licenceCountry": "LU",
+    "website": "https://www.clearstream.com/clearstream-en",
+    "careersUrl": "https://www.clearstream.com/clearstream-en/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Cloverum",
+    "licenceCountry": "CY",
+    "website": "https://www.cloverum.com",
+    "careersUrl": "https://www.linkedin.com/company/cloverum/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Coinbase",
+    "licenceCountry": "LU",
+    "website": "https://coinbase.com",
+    "careersUrl": "https://www.coinbase.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Coinfinity",
+    "licenceCountry": "AT",
+    "website": "https://coinfinity.co",
+    "careersUrl": "https://coinfinity.co/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CoinFlip",
+    "licenceCountry": "IT",
+    "website": "https://coinflip.tech/it-IT",
+    "careersUrl": "https://recruiting.paylocity.com/recruiting/jobs/All/180caf02-549a-463c-91b3-55c3b316483e/CoinFlip",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Coingate",
+    "licenceCountry": "LT",
+    "website": "https://coingate.com",
+    "careersUrl": "https://coingate.com/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "COINHOUSE",
+    "licenceCountry": "FR",
+    "website": "https://www.coinhouse.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Coinify",
+    "licenceCountry": "DK",
+    "website": "https://www.coinify.com",
+    "careersUrl": "https://www.linkedin.com/company/coinify/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CoinJar",
+    "licenceCountry": "IE",
+    "website": "https://www.coinjar.com",
+    "careersUrl": "https://www.coinjar.com/careers",
+    "ats": "workable",
+    "slug": "coinjar",
+    "status": "ok"
+  },
+  {
+    "name": "COINMATE a.s.",
+    "licenceCountry": "CZ",
+    "website": "https://coinmate.io/cs",
+    "careersUrl": "https://coinmate.io/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Coinmerce B.V..",
+    "licenceCountry": "NL",
+    "website": "https://coinmerce.io",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Coinmotion",
+    "licenceCountry": "FI",
+    "website": "https://coinmotion.com",
+    "careersUrl": "https://careers.coinmotion.com/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "COINSHARES ASSET MANAGEMENT",
+    "licenceCountry": "FR",
+    "website": "https://coinshares.com",
+    "careersUrl": "https://www.linkedin.com/company/coinshares/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "COLLECT & EXCHANGE CY LTD",
+    "licenceCountry": "CY",
+    "website": "https://collectnexchange.cy",
+    "careersUrl": "https://collectnexchange.cy/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "COMETH",
+    "licenceCountry": "FR",
+    "website": "https://cometh.io",
+    "careersUrl": "https://www.linkedin.com/company/comethstudio/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Commerzbank Aktiengesellschaft",
+    "licenceCountry": "DE",
+    "website": "https://www.commerzbank.com",
+    "careersUrl": "https://www.commerzbank.de/group/careers/news/2026-ai-academy.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "COMPLYCRYPTO DEPOSITORY EU LIMITED",
+    "licenceCountry": "CY",
+    "website": "https://www.complycrypto.eu",
+    "careersUrl": "https://complycrypto.eu/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CONCEDUS GmbH",
+    "licenceCountry": "DE",
+    "website": "https://concedus.com",
+    "careersUrl": "https://concedus.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Confirmo Limited",
+    "licenceCountry": "IE",
+    "website": "https://confirmo.eu",
+    "careersUrl": "https://confirmo.recruitee.com",
+    "ats": "recruitee",
+    "slug": "confirmo",
+    "status": "ok"
+  },
+  {
+    "name": "Conio",
+    "licenceCountry": "IT",
+    "website": "https://www.conio.com",
+    "careersUrl": "https://www.conio.com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CPS",
+    "licenceCountry": "LU",
+    "website": "https://www.enum8.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "CRIPTAN",
+    "licenceCountry": "ES",
+    "website": "https://www.criptan.com",
+    "careersUrl": "https://www.linkedin.com/company/criptan/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CROSSMINT",
+    "licenceCountry": "ES",
+    "website": "https://www.crossmint.com",
+    "careersUrl": "https://crossmint.notion.site/Jobs-at-Crossmint-72c5ada11b2347b5bfe475bf97ed29c9",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Crypto Finance (Deutschland) GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.crypto-finance.com/germany/de",
+    "careersUrl": "https://www.crypto-finance.com/germany/de/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CRYPTO-AM",
+    "licenceCountry": "FR",
+    "website": "https://crypto-assets-management.com",
+    "careersUrl": "https://www.linkedin.com/company/m%C3%A9reau-finance/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Crypto.com",
+    "licenceCountry": "MT",
+    "website": "https://crypto.com",
+    "careersUrl": "https://crypto.com/us/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Cryptonow",
+    "licenceCountry": "AT",
+    "website": "https://www.cryptonow.at",
+    "careersUrl": "https://www.cryptonow.net/de-at/arbeiten-bei-cryptonow",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "CRYPTOPOCKET",
+    "licenceCountry": "ES",
+    "website": "https://cryptopocket.io",
+    "careersUrl": "https://cryptopocket.io/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Cryptosmart",
+    "licenceCountry": "IT",
+    "website": "https://cryptosmart.it",
+    "careersUrl": "https://cryptosmart.it/pagina/lavora-con-noi",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Cryptovoucher",
+    "licenceCountry": "SK",
+    "website": "https://cryptovoucher.io",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "D2X",
+    "licenceCountry": "NL",
+    "website": "https://d2x.com",
+    "careersUrl": "https://d2x.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "DADAT",
+    "licenceCountry": "AT",
+    "website": "https://www.dad.at",
+    "careersUrl": "https://www.dad.at/ueber-uns/karriere/initiativbewerbung",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Damex",
+    "licenceCountry": "MT",
+    "website": "https://www.damex.io",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DASK KRYPTO",
+    "licenceCountry": "CY",
+    "website": "https://www.daskkrypto.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "error"
+  },
+  {
+    "name": "DCS | HappyCoins",
+    "licenceCountry": "NL",
+    "website": "https://happycoins.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DEBLOCK",
+    "licenceCountry": "FR",
+    "website": "https://deblock.com",
+    "careersUrl": "https://apply.workable.com/deblock",
+    "ats": "workable",
+    "slug": "deblock",
+    "status": "ok"
+  },
+  {
+    "name": "Decubate B.V.",
+    "licenceCountry": "NL",
+    "website": "https://www.decubate.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DekaBank Deutsche Girozentrale",
+    "licenceCountry": "DE",
+    "website": "https://www.deka.de/deka-gruppe",
+    "careersUrl": "https://karriere.deka.de/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "DESKOIN",
+    "licenceCountry": "FR",
+    "website": "https://www.deskoin.com",
+    "careersUrl": "https://www.linkedin.com/company/deskoin/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Deutsche Bank Aktiengesellschaft",
+    "licenceCountry": "DE",
+    "website": "https://www.deutsche-bank.de",
+    "careersUrl": "https://careers.db.com/index?kid=karriere.redirect-en.shortcut&language_id=3",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Deutsche WertpapierService Bank AG (dwpbank)",
+    "licenceCountry": "DE",
+    "website": "https://dwpbank.de",
+    "careersUrl": "https://www.dwpbank.de/karriere/weiterentwicklung/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Dietrich & Richter Private Asset Management AG",
+    "licenceCountry": "DE",
+    "website": "https://www.drpam.de",
+    "careersUrl": "https://www.drpam.de/karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Digital Assist",
+    "licenceCountry": "BG",
+    "website": "https://digitalassist.bg",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DLT Securities GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.dlt-finance.com",
+    "careersUrl": "https://www.linkedin.com/company/dlt-finance-group/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Donau-Iller-Bank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.donau-iller-bank.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DonauCapital Wertpapier GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.donaucapital.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "DUE",
+    "licenceCountry": "ES",
+    "website": "https://www.opendue.com",
+    "careersUrl": "https://www.linkedin.com/company/due-network/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank",
+    "licenceCountry": "DE",
+    "website": "https://www.dzbank.de",
+    "careersUrl": "https://karriere.dzbank.de/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "e Toro",
+    "licenceCountry": "CY",
+    "website": "https://www.etoro.com",
+    "careersUrl": "https://www.etoro.com/about/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ELECTROCOIN",
+    "licenceCountry": "HR",
+    "website": "https://electrocoin.eu/hr",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "EU Internet Ventures |EUIV|BNXA | OSL Pay | WisPay",
+    "licenceCountry": "NL",
+    "website": "https://banxa.com",
+    "careersUrl": "https://www.linkedin.com/company/banxa-com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "EUWAX AG",
+    "licenceCountry": "DE",
+    "website": "https://www.euwax-ag.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Everest",
+    "licenceCountry": "MT",
+    "website": "https://www.everest.org",
+    "careersUrl": "https://www.everest.org/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FalconX",
+    "licenceCountry": "MT",
+    "website": "https://www.falconx.io",
+    "careersUrl": "https://www.falconx.io/work-with-us",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FAZIL CRYPTO",
+    "licenceCountry": "ES",
+    "website": "https://fazilcrypto.com/es",
+    "careersUrl": "https://fazilcrypto.com/join-us",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FEEL MINING / WIGL ET OTHILA",
+    "licenceCountry": "FR",
+    "website": "https://feel-mining.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Fels wealth GmbH",
+    "licenceCountry": "DE",
+    "website": "https://followmymoney.de",
+    "careersUrl": "https://followmymoney.de/unternehmen/karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FF Digital",
+    "licenceCountry": "BG",
+    "website": "https://www.ffdigital.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Fiat Republic Netherlands B.V.",
+    "licenceCountry": "NL",
+    "website": "https://fiatrepublic.com",
+    "careersUrl": "https://fiatrepublic.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FIDUS Finanz AG",
+    "licenceCountry": "DE",
+    "website": "https://fidus-ag.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "FINARY",
+    "licenceCountry": "FR",
+    "website": "https://finary.com/en",
+    "careersUrl": "https://finary.com/fr/careers",
+    "ats": "ashby",
+    "slug": "finary",
+    "status": "ok"
+  },
+  {
+    "name": "FINCTEK",
+    "licenceCountry": "FR",
+    "website": "https://finctek.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Finst B.V.",
+    "licenceCountry": "NL",
+    "website": "https://finst.com",
+    "careersUrl": "https://www.linkedin.com/company/finst-official/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FIPTO",
+    "licenceCountry": "FR",
+    "website": "https://www.fipto.com",
+    "careersUrl": "https://fipto.teamtailor.com",
+    "ats": "teamtailor",
+    "slug": "fipto",
+    "status": "ok"
+  },
+  {
+    "name": "Firefish",
+    "licenceCountry": "SK",
+    "website": "https://firefish.io",
+    "careersUrl": "https://docs.firefish.io/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FIRI AS",
+    "licenceCountry": "NO",
+    "website": "https://firi.com/no",
+    "careersUrl": "https://www.linkedin.com/company/firias/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "flatexDEGIRO Bank AG",
+    "licenceCountry": "DE",
+    "website": "https://www.flatexdegiro.com/de/flatexdegiro-bank/login",
+    "careersUrl": "https://flatexdegiro.com/German/career/dual-studies/default.aspx",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Floin AG",
+    "licenceCountry": "LI",
+    "website": "https://floin.com",
+    "careersUrl": "https://www.linkedin.com/company/floin/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FLOWDESK EUROPE",
+    "licenceCountry": "FR",
+    "website": "https://www.flowdesk.co",
+    "careersUrl": "https://www.flowdesk.co/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Frankfurter Volksbank Rhein/Main eG",
+    "licenceCountry": "DE",
+    "website": "https://www.frankfurter-volksbank.de",
+    "careersUrl": "https://www.frankfurter-volksbank.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "FUMBI",
+    "licenceCountry": "SK",
+    "website": "https://fumbi.network/sk",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Gate",
+    "licenceCountry": "MT",
+    "website": "https://www.gate.com/en-eu",
+    "careersUrl": "https://www.gate.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "GateHub Exchange",
+    "licenceCountry": "SI",
+    "website": "https://www.gatehub.net",
+    "careersUrl": "https://www.gatehub.net/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "GCEX|GC Exchange",
+    "licenceCountry": "DK",
+    "website": "https://gc.exchange",
+    "careersUrl": "https://gc.exchange/gcex-careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Gemini",
+    "licenceCountry": "MT",
+    "website": "https://www.gemini.com",
+    "careersUrl": "https://www.gemini.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "GG Digital, a.s.",
+    "licenceCountry": "CZ",
+    "website": "https://www.goldengate.cz",
+    "careersUrl": "https://www.linkedin.com/company/golden-gate-cz-a-s-/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "GOIN",
+    "licenceCountry": "FR",
+    "website": "https://goin-invest.com",
+    "careersUrl": "https://www.linkedin.com/company/goin-invest/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "GOIN CRYPTO",
+    "licenceCountry": "ES",
+    "website": "https://www.goin.app",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Hannoversche Volksbank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.hannoversche-volksbank.de",
+    "careersUrl": "https://www.hannoversche-volksbank.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Hauck Aufhäuser Digital Custody GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.hal-privatbank.com/asset-servicing/digitale-assets/regulierte-kryptoverwahrung",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Hercle",
+    "licenceCountry": "IT",
+    "website": "https://www.hercle.financial",
+    "careersUrl": "https://hercle.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "HEXARQ",
+    "licenceCountry": "FR",
+    "website": "https://www.hexarq.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Hidden Road Partners CIV NL B.V.",
+    "licenceCountry": "NL",
+    "website": "https://hiddenroad.com",
+    "careersUrl": "https://ripple.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Hodleris",
+    "licenceCountry": "LV",
+    "website": "https://hfinance.eu",
+    "careersUrl": "https://hfinance.eu/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Hodli",
+    "licenceCountry": "IT",
+    "website": "https://hodli.com",
+    "careersUrl": "https://hodli.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "HPB d.d.",
+    "licenceCountry": "HR",
+    "website": "https://www.hpb.hr",
+    "careersUrl": "https://www.hpb.hr/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Huddlestock GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.huddlestock.com",
+    "careersUrl": "https://huddlestock.com/company/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Hyphe Markets GmbH",
+    "licenceCountry": "DE",
+    "website": "https://hyphe.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "ICEBLOCK",
+    "licenceCountry": "FR",
+    "website": "https://www.iceblockinvestments.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Iconomi",
+    "licenceCountry": "SI",
+    "website": "https://www.iconomi.com",
+    "careersUrl": "https://www.iconomi.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "IG Europe GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.ig.com/de",
+    "careersUrl": "https://www.iggroup.com/about-us/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Ihre Volksbank eG Neckar Odenwald Main Tauber",
+    "licenceCountry": "DE",
+    "website": "https://www.ihre-vb.de",
+    "careersUrl": "https://www.ihre-vb.de/privatkunden/girokonto-und-bezahlen/produkte/karten/kreditkarten/kreditkarte-bestellen.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ILAVO GROUP a.s.",
+    "licenceCountry": "CZ",
+    "website": "https://www.ilavo.cz/cs",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Ilirika",
+    "licenceCountry": "SI",
+    "website": "https://www.ilirika.si",
+    "careersUrl": "https://www.linkedin.com/company/ilirika-brokerage-plc-/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "IN KAPITAL",
+    "licenceCountry": "HR",
+    "website": "https://www.inkapital.hr",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Incrementum",
+    "licenceCountry": "SI",
+    "website": "https://incrementum.si",
+    "careersUrl": "https://www.linkedin.com/company/incrementuminvestments/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Interactive Brokers Ireland Limited",
+    "licenceCountry": "IE",
+    "website": "https://www.interactivebrokers.ie",
+    "careersUrl": "https://www.interactivebrokers.ie/en/general/about/careers-splash.php",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Invity Finance s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://www.invity.io",
+    "careersUrl": "https://www.invity.io/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "IP wBTCb solutions, s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://bit.plus",
+    "careersUrl": "https://www.linkedin.com/company/world-btc-business-wbtcb/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "IQANA TECHNOLOGIES S.L.",
+    "licenceCountry": "ES",
+    "website": "https://iqana.io",
+    "careersUrl": "https://www.linkedin.com/company/iqana/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ISF Institut Deutsch-Schweizer Finanzdienstleistungen GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.isf-institut.de",
+    "careersUrl": "https://www.isf-institut.de/karriere/infotag-das-schweiz-depot",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "J2TX Ltd",
+    "licenceCountry": "CY",
+    "website": "https://www.j2tx.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Januar",
+    "licenceCountry": "DK",
+    "website": "https://www.januar.com",
+    "careersUrl": "https://www.linkedin.com/company/thejanuargate/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Joh. Berenberg, Gossler & Co. KG",
+    "licenceCountry": "DE",
+    "website": "https://www.berenberg.de",
+    "careersUrl": "https://careers.berenberg.com/de",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "justTRADE",
+    "licenceCountry": "DE",
+    "website": "https://www.justtrade.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "K33 MARKETS as",
+    "licenceCountry": "NO",
+    "website": "https://www.k33.com",
+    "careersUrl": "https://www.linkedin.com/company/k33/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Kaiser Partner Privatbank",
+    "licenceCountry": "LI",
+    "website": "https://kaiserpartner.bank",
+    "careersUrl": "https://kaiserpartner.bank/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "KBC",
+    "licenceCountry": "BE",
+    "website": "https://www.kbc.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "KEYROCK",
+    "licenceCountry": "FR",
+    "website": "https://keyrock.com",
+    "careersUrl": "https://keyrock.com/careers/",
+    "ats": "ashby",
+    "slug": "keyrock",
+    "status": "ok"
+  },
+  {
+    "name": "Kraken Digital Asset Exchange (“Kraken”)",
+    "licenceCountry": "IE",
+    "website": "https://www.kraken.com",
+    "careersUrl": "https://www.kraken.com/careers",
+    "ats": "ashby",
+    "slug": "kraken.com",
+    "status": "ok"
+  },
+  {
+    "name": "Kraken, Kraken Digital Asset Exchange",
+    "licenceCountry": "IE",
+    "website": "https://www.kraken.com",
+    "careersUrl": "https://www.kraken.com/careers",
+    "ats": "ashby",
+    "slug": "kraken.com",
+    "status": "ok"
+  },
+  {
+    "name": "KRIPTOMAT",
+    "licenceCountry": "HR",
+    "website": "https://kriptomat.hr",
+    "careersUrl": "https://kriptomat.hr/wp-content/uploads/2024/03/jobs.png",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "KRYPTO KNIGHT",
+    "licenceCountry": "CY",
+    "website": "https://www.krypto-knight.com",
+    "careersUrl": "https://krypto-knight.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "KSW Vermögensverwaltung AG",
+    "licenceCountry": "DE",
+    "website": "https://www.ksw-vermoegen.de",
+    "careersUrl": "https://www.ksw-vermoegen.de/karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "KuCoin EU",
+    "licenceCountry": "AT",
+    "website": "https://www.kucoin.eu",
+    "careersUrl": "https://www.kucoin.com/en-eu/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "KUTXABANK",
+    "licenceCountry": "ES",
+    "website": "https://portal.kutxabank.es/cs",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Kvarn X",
+    "licenceCountry": "FI",
+    "website": "https://www.kvarnx.com",
+    "careersUrl": "https://www.linkedin.com/company/kvarnx/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Lang & Schwarz TradeCenter AG & Co. KG",
+    "licenceCountry": "DE",
+    "website": "https://www.ls-tc.de/de",
+    "careersUrl": "https://www.ls-d.de/unternehmen/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Legend Trading",
+    "licenceCountry": "IE",
+    "website": "https://www.legendtrading.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Legion",
+    "licenceCountry": "MT",
+    "website": "https://legion.cc",
+    "careersUrl": "https://www.linkedin.com/company/legiondotcc/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "LEONOD",
+    "licenceCountry": "FR",
+    "website": "https://app.bullbitcoin.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "LGT Bank AG",
+    "licenceCountry": "LI",
+    "website": "https://www.lgt.com/li-en",
+    "careersUrl": "https://www.lgt.com/li-en/career/lgt-employer",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Lightspark Payments Europe AS",
+    "licenceCountry": "EE",
+    "website": "https://eu.lightspark.com",
+    "careersUrl": "https://www.linkedin.com/company/striga/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Lightyear Europe AS",
+    "licenceCountry": "EE",
+    "website": "https://lightyear.com",
+    "careersUrl": "https://careers.lightyear.com/",
+    "ats": "teamtailor",
+    "slug": "lightyear",
+    "status": "ok"
+  },
+  {
+    "name": "Lunar Block",
+    "licenceCountry": "DK",
+    "website": "https://www.lunar.app/dk/privat/krypto",
+    "careersUrl": "https://www.lunar.app/en/personal/jobs-and-career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Madison Six|crypto4me",
+    "licenceCountry": "SK",
+    "website": "https://madisonsix.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "MEATAL GEAR",
+    "licenceCountry": "FR",
+    "website": "https://metalgear.xyz",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "MERIA",
+    "licenceCountry": "FR",
+    "website": "https://www.meria.com",
+    "careersUrl": "https://www.meria.com/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "MINOS GLOBAL",
+    "licenceCountry": "ES",
+    "website": "https://minos.global",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "MipSoftware s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://coinero.cz",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "MLP Banking AG",
+    "licenceCountry": "DE",
+    "website": "https://www.mlp.de",
+    "careersUrl": "https://mlp-se.de/karriere/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Monflo",
+    "licenceCountry": "NL",
+    "website": "https://www.monflo.com",
+    "careersUrl": "https://www.linkedin.com/company/monflo/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "MoonPay Europe B.V.",
+    "licenceCountry": "NL",
+    "website": "https://www.moonpay.com",
+    "careersUrl": "https://www.moonpay.com/careers",
+    "ats": "greenhouse",
+    "slug": "moonpay",
+    "status": "ok"
+  },
+  {
+    "name": "MP Developers s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://www.dase.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Münchner Bank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.muenchner-bank.de",
+    "careersUrl": "https://www.muenchner-bank.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Myntkaup",
+    "licenceCountry": "IS",
+    "website": "https://myntkaup.is",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Myriad Capital",
+    "licenceCountry": "LT",
+    "website": "https://myriadcapital.lt",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "N26 Bank SE",
+    "licenceCountry": "DE",
+    "website": "https://n26.com",
+    "careersUrl": "https://n26.com/en-eu/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "NAGA X",
+    "licenceCountry": "CY",
+    "website": "https://www.nagax.com/eu",
+    "careersUrl": "https://www.linkedin.com/company/nagainvesting/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "NBX",
+    "licenceCountry": "NO",
+    "website": "https://nbx.com",
+    "careersUrl": "https://nbx.com/en/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Neverless",
+    "licenceCountry": "LV",
+    "website": "https://neverless.com",
+    "careersUrl": "https://neverless.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Newrails",
+    "licenceCountry": "LT",
+    "website": "https://www.newrails.xyz",
+    "careersUrl": "https://www.linkedin.com/company/newrails/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Nexdesk",
+    "licenceCountry": "LV",
+    "website": "https://nexdesk.io",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Noah",
+    "licenceCountry": "LV",
+    "website": "https://noah.com/en/eu",
+    "careersUrl": "https://noah.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Nodu Digital",
+    "licenceCountry": "LV",
+    "website": "https://nodu.fi",
+    "careersUrl": "https://www.linkedin.com/company/nodufi/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Noemon Finance Ltd",
+    "licenceCountry": "CY",
+    "website": "https://www.noemon.finance",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "NOEMON TECH LTD",
+    "licenceCountry": "CY",
+    "website": "https://www.noemon.tech",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "NorthCrypto",
+    "licenceCountry": "FI",
+    "website": "https://www.northcrypto.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Northstake",
+    "licenceCountry": "DK",
+    "website": "https://www.northstake.dk",
+    "careersUrl": "https://www.northstake.dk/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Okazio",
+    "licenceCountry": "SK",
+    "website": "https://okazio.sk",
+    "careersUrl": "https://www.linkedin.com/company/okaziocryptoplatform/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "OKX",
+    "licenceCountry": "MT",
+    "website": "https://www.okx.com",
+    "careersUrl": "https://www.okx.com/en-us/join-us",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Olmipay",
+    "licenceCountry": "MT",
+    "website": "https://olmipay.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "One Trading Exchange B.V.",
+    "licenceCountry": "NL",
+    "website": "https://www.onetrading.com",
+    "careersUrl": "https://www.onetrading.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "OP Digital",
+    "licenceCountry": "MT",
+    "website": "https://www.openpayd.com",
+    "careersUrl": "https://www.openpayd.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "OPENBANK",
+    "licenceCountry": "ES",
+    "website": "https://www.openbank.es",
+    "careersUrl": "https://www.linkedin.com/company/openbank/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Openbank Deutschland AG",
+    "licenceCountry": "DE",
+    "website": "https://www.openbank.de",
+    "careersUrl": "https://unternehmen.openbank.de/karrieren/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Orcabay",
+    "licenceCountry": "SI",
+    "website": "https://orcabay.io",
+    "careersUrl": "https://www.linkedin.com/company/orcabay-d-o-o/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "OSL EU",
+    "licenceCountry": "AT",
+    "website": "https://www.osl.com/eu",
+    "careersUrl": "https://www.osl.com/en/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Partners Banka, a.s.",
+    "licenceCountry": "CZ",
+    "website": "https://www.partnersbanka.cz",
+    "careersUrl": "https://www.linkedin.com/company/49106005/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Paybis",
+    "licenceCountry": "LV",
+    "website": "https://paybis.com",
+    "careersUrl": "https://paybis.com/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Payhound",
+    "licenceCountry": "MT",
+    "website": "https://www.payhound.com",
+    "careersUrl": "https://payhound.com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "PAYMIUM",
+    "licenceCountry": "FR",
+    "website": "https://www.paymium.com",
+    "careersUrl": "https://www.linkedin.com/company/paymium/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Paymonade",
+    "licenceCountry": "LI",
+    "website": "https://www.paymonade.tech",
+    "careersUrl": "https://www.paymonade.tech/join-us",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "PAYTOP",
+    "licenceCountry": "FR",
+    "website": "https://www.paytop.com",
+    "careersUrl": "https://www.linkedin.com/company/paytop/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "PELICAN EXCHANGE EUROPE (CY) LTD",
+    "licenceCountry": "CY",
+    "website": "https://www.pelicaneu.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "PIRAEUS BANK Société Anonyme (S.A.)",
+    "licenceCountry": "GR",
+    "website": "https://www.piraeusbank.gr",
+    "careersUrl": "https://www.linkedin.com/company/piraeus-bank/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Pluso a.s.",
+    "licenceCountry": "CZ",
+    "website": "https://www.pluso.cz",
+    "careersUrl": "https://www.pluso.cz/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Plutos Vermögensverwaltung AG",
+    "licenceCountry": "DE",
+    "website": "https://www.plutos.de",
+    "careersUrl": "https://www.plutos.de/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "PM MTF LTD",
+    "licenceCountry": "CY",
+    "website": "https://mtf.perpetuals.com/,",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "PROSEGUR CRYPTO",
+    "licenceCountry": "ES",
+    "website": "https://www.prosegurcrypto.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Push / Aave Push",
+    "licenceCountry": "IE",
+    "website": "https://push.co",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "QWARKS",
+    "licenceCountry": "FR",
+    "website": "https://www.qwarks.fr",
+    "careersUrl": "https://www.linkedin.com/company/qwarks-crypto/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisebank Auerbach-Freihung eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rb-af.de",
+    "careersUrl": "https://www.rb-af.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Aidlingen eG",
+    "licenceCountry": "DE",
+    "website": "https://www.ihrziel.de",
+    "careersUrl": "https://www.ihrziel.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Falkenstein-Wörth",
+    "licenceCountry": "DE",
+    "website": "https://www.rbfalkenstein-woerth.de",
+    "careersUrl": "https://www.rbfalkenstein-woerth.de/meine-bank/karriere/berufserfahrene.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Goldener Steig-Dreisessel eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rb-gsd.de",
+    "careersUrl": "https://www.rb-gsd.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank im Fuldaer Land eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rb-fuldaerland.de",
+    "careersUrl": "https://www.rb-fuldaerland.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank im Oberland eG",
+    "licenceCountry": "DE",
+    "website": "https://www.oberlandbank.de",
+    "careersUrl": "https://www.oberlandbank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Isar-Loisachtal eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rileg.de",
+    "careersUrl": "https://www.rileg.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Kreis Kelheim eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rbkk.de",
+    "careersUrl": "https://www.rbkk.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Rehling eG",
+    "licenceCountry": "DE",
+    "website": "https://www.raiba-rehling.de",
+    "careersUrl": "https://www.raiba-rehling.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Raiffeisenbank Schwaben Mitte eG",
+    "licenceCountry": "DE",
+    "website": "https://www.rb-schwaben.de",
+    "careersUrl": "https://www.rb-schwaben.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Ramp Network",
+    "licenceCountry": "IE",
+    "website": "https://rampnetwork.com",
+    "careersUrl": "https://rampnetwork.com/join-us",
+    "ats": "greenhouse",
+    "slug": "rampnetwork",
+    "status": "ok"
+  },
+  {
+    "name": "RCUBE ASSET MANAGEMENT",
+    "licenceCountry": "FR",
+    "website": "https://rcube.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "REGULAR",
+    "licenceCountry": "FR",
+    "website": "https://www.regular.eu",
+    "careersUrl": "https://www.linkedin.com/company/regular-finance/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "RELAI",
+    "licenceCountry": "FR",
+    "website": "https://relai.app",
+    "careersUrl": "https://relai.app/career/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "RENTA 4",
+    "licenceCountry": "ES",
+    "website": "https://www.r4.com",
+    "careersUrl": "https://www.linkedin.com/company/renta-4/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Revolut",
+    "licenceCountry": "CY",
+    "website": "https://www.revolut.com/en-CY/crypto",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Ripple Payments Europe S.A.",
+    "licenceCountry": "LU",
+    "website": "https://ripple.com",
+    "careersUrl": "https://ripple.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "RIV-Digital",
+    "licenceCountry": "IT",
+    "website": "https://riv-digital.it",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Robinhood",
+    "licenceCountry": "LT",
+    "website": "https://www.robinhood.com",
+    "careersUrl": "https://careers.robinhood.com/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Ronin EM Ltd",
+    "licenceCountry": "CY",
+    "website": "https://em.ron.in",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "RUFIJI",
+    "licenceCountry": "FR",
+    "website": "https://www.rufiji.capital",
+    "careersUrl": "https://www.rufiji.capital/nos-offres/entreprises/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "RULEMATCH",
+    "licenceCountry": "LI",
+    "website": "https://www.rulematch.com/europe",
+    "careersUrl": "https://www.linkedin.com/company/rulematch/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Safello AB",
+    "licenceCountry": "SE",
+    "website": "https://www.safello.com",
+    "careersUrl": "https://careers.safello.com/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "SafeLynx",
+    "licenceCountry": "DK",
+    "website": "https://www.safelynx.io",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.scalable.capital",
+    "careersUrl": "https://de.scalable.capital/careers",
+    "ats": "smartrecruiters",
+    "slug": "ScalableGmbH",
+    "status": "ok"
+  },
+  {
+    "name": "SHARES",
+    "licenceCountry": "FR",
+    "website": "https://www.shares.io",
+    "careersUrl": "https://www.linkedin.com/company/joinshares/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Simple Coin s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://www.simplecoin.eu",
+    "careersUrl": "https://www.simplecoin.eu/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Simplex",
+    "licenceCountry": "LT",
+    "website": "https://simplex.com",
+    "careersUrl": "https://www.simplex.com/join-us/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "sino Aktiengesellschaft",
+    "licenceCountry": "DE",
+    "website": "https://www.sino.de",
+    "careersUrl": "https://www.sino.de/unternehmen/karriere-3/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Skrill, NETELLER",
+    "licenceCountry": "IE",
+    "website": "https://www.skrill.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "SMART VALOR",
+    "licenceCountry": "LI",
+    "website": "https://smartvalor.com/en",
+    "careersUrl": "https://smartvalor.com/en/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Smartbroker AG",
+    "licenceCountry": "DE",
+    "website": "https://www.smartbrokerplus.de/de-de",
+    "careersUrl": "https://smartbroker.jobs.personio.com",
+    "ats": "personio",
+    "slug": "smartbroker",
+    "status": "ok"
+  },
+  {
+    "name": "SOCIETE GENERALE - FORGE",
+    "licenceCountry": "FR",
+    "website": "https://www.sgforge.com",
+    "careersUrl": "https://www.linkedin.com/company/18818506/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Socios.com",
+    "licenceCountry": "MT",
+    "website": "https://www.socios.com",
+    "careersUrl": "https://www.chiliz.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Solidgate , SG Digital Assets",
+    "licenceCountry": "CY",
+    "website": "https://solidgate.com/casp",
+    "careersUrl": "https://solidgate.com/careers/",
+    "ats": "ashby",
+    "slug": "solidgate",
+    "status": "ok"
+  },
+  {
+    "name": "Spar- und Kreditbank Rheinstetten eG",
+    "licenceCountry": "DE",
+    "website": "https://www.skb-rheinstetten.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Stable Mint Ltd.",
+    "licenceCountry": "MT",
+    "website": "https://stablemint.io",
+    "careersUrl": "https://www.linkedin.com/company/stable-mint/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Standard Chartered",
+    "licenceCountry": "LU",
+    "website": "https://www.sc.com",
+    "careersUrl": "https://www.sc.com/en/global-careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "STOKR",
+    "licenceCountry": "LU",
+    "website": "https://stokr.io",
+    "careersUrl": "https://stokr.io/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "StoneX",
+    "licenceCountry": "IE",
+    "website": "https://www.stonex.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Strike",
+    "licenceCountry": "MT",
+    "website": "https://strike.me/en-GB",
+    "careersUrl": "https://strike.me/gb/en/careers/",
+    "ats": "greenhouse",
+    "slug": "strike",
+    "status": "ok"
+  },
+  {
+    "name": "Sutor Bank GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.sutorbank.de",
+    "careersUrl": "https://www.sutorbank.de/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "SWISSBORG",
+    "licenceCountry": "FR",
+    "website": "https://swissborg.com",
+    "careersUrl": "https://swissborg.com/careers",
+    "ats": "lever",
+    "slug": "swissborg",
+    "status": "ok"
+  },
+  {
+    "name": "Swissquote",
+    "licenceCountry": "LU",
+    "website": "https://www.swissquote.com/en-lu/private",
+    "careersUrl": "https://www.swissquote.com/en/careers",
+    "ats": "smartrecruiters",
+    "slug": "Swissquote",
+    "status": "ok"
+  },
+  {
+    "name": "Sygnum Europe",
+    "licenceCountry": "LI",
+    "website": "https://www.sygnum.com/eu",
+    "careersUrl": "https://www.linkedin.com/company/sygnumofficial/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Tangany GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.tangany.com",
+    "careersUrl": "https://tangany.com/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "TEROXX DIGITAL ASSET LTD",
+    "licenceCountry": "CY",
+    "website": "https://www.teroxx.com",
+    "careersUrl": "https://www.teroxx.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Tesseract",
+    "licenceCountry": "FI",
+    "website": "https://tesseract.fi",
+    "careersUrl": "https://tesseract.fi/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "tothemoon",
+    "licenceCountry": "CY",
+    "website": "https://tothemoon.com",
+    "careersUrl": "https://tothemoon.com/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Trade Republic Bank GmbH",
+    "licenceCountry": "DE",
+    "website": "https://traderepublic.com",
+    "careersUrl": "https://www.linkedin.com/company/trade-republic/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Traders Place GmbH & Co. KGaA",
+    "licenceCountry": "DE",
+    "website": "https://tradersplace.de/angebot/uebersicht/kryptowaehrungen",
+    "careersUrl": "https://tradersplace.de/footer-menue/traders-place/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Tradevest",
+    "licenceCountry": "DE",
+    "website": "https://www.tradevest.ai",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Tradevest Markets AG",
+    "licenceCountry": "DE",
+    "website": "https://www.tradevest.ai/de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Tradias GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.tradias.de",
+    "careersUrl": "https://www.tradias.de/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Trading 212",
+    "licenceCountry": "CY",
+    "website": "https://www.trading212.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Trading.com",
+    "licenceCountry": "CY",
+    "website": "https://www.trading.com/eu",
+    "careersUrl": "https://www.trading.com/eu/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Tradu",
+    "licenceCountry": "CY",
+    "website": "https://www.tradu.com/eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "TRIA BRIDGE",
+    "licenceCountry": "CY",
+    "website": "https://triabridge.com",
+    "careersUrl": "https://triabridge.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Twino",
+    "licenceCountry": "LV",
+    "website": "https://www.twino.eu/en",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "TÝR MARKETS AS",
+    "licenceCountry": "NO",
+    "website": "https://www.tyrmarkets.net/no",
+    "careersUrl": "https://www.linkedin.com/company/tyrmarkets/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Unlimit Crypto Ltd (ex Stable Defi Ltd)",
+    "licenceCountry": "CY",
+    "website": "https://www.crypto.unlimit.com",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "V-Bank AG",
+    "licenceCountry": "DE",
+    "website": "https://www.v-bank.com",
+    "careersUrl": "https://www.v-bank.com/karriere",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Validvent",
+    "licenceCountry": "AT",
+    "website": "https://validvent.com",
+    "careersUrl": "https://www.linkedin.com/company/validvent/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VBU Volksbank im Unterland eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vbu-volksbank.de",
+    "careersUrl": "https://www.vbu-volksbank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Vereinigte Volksbank Raiffeisenbank eG, Reinheim",
+    "licenceCountry": "DE",
+    "website": "https://www.vvrb.de",
+    "careersUrl": "https://www.vvrb.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Vereinigte VR Bank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vereinigte-vrbk.de",
+    "careersUrl": "https://www.vereinigte-vrbk.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Vermögensbutler GmbH",
+    "licenceCountry": "DE",
+    "website": "https://www.vermoegensbutler.de",
+    "careersUrl": "https://www.linkedin.com/company/verm%C3%B6gensbutler-ag/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Virtu Financial Ireland Limited",
+    "licenceCountry": "IE",
+    "website": "https://www.virtu.com",
+    "careersUrl": "https://www.virtu.com/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Vivid Money B.V.",
+    "licenceCountry": "NL",
+    "website": "https://vivid.money",
+    "careersUrl": "https://careers.vivid.money/",
+    "ats": "personio",
+    "slug": "vivid",
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Alb eG",
+    "licenceCountry": "DE",
+    "website": "https://www.voba-alb.de",
+    "careersUrl": "https://www.voba-alb.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Backnang eG",
+    "licenceCountry": "DE",
+    "website": "https://www.volksbank-backnang.de",
+    "careersUrl": "https://www.volksbank-backnang.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Baumberge eG",
+    "licenceCountry": "DE",
+    "website": "https://www.volksbank-baumberge.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Volksbank Beilstein-Ilsfeld-Abstatt eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vb-bia.de",
+    "careersUrl": "https://www.linkedin.com/company/volksbank-beilstein-ilsfeld-abstatt-eg/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vb-eg.de",
+    "careersUrl": "https://www.vb-eg.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank eG - Die Gestalterbank",
+    "licenceCountry": "DE",
+    "website": "https://www.gestalterbank.de",
+    "careersUrl": "https://www.linkedin.com/company/gestalterbank/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Euskirchen eG",
+    "licenceCountry": "DE",
+    "website": "https://www.eu-banking.de",
+    "careersUrl": "https://www.eu-banking.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Göppingen eG",
+    "licenceCountry": "DE",
+    "website": "https://www.volksbank-goeppingen.de",
+    "careersUrl": "https://www.volksbank-goeppingen.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Heiden eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vbheiden.de",
+    "careersUrl": "https://www.vbheiden.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Mittlerer Schwarzwald eG",
+    "licenceCountry": "DE",
+    "website": "https://www.voba-msw.de",
+    "careersUrl": "https://www.voba-msw.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Olpe-Wenden-Drolshagen eG",
+    "licenceCountry": "DE",
+    "website": "https://www.voba-owd.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Bayern Mitte eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-bayernmitte.de",
+    "careersUrl": "https://www.vr-bayernmitte.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Dachau eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-dachau.de",
+    "careersUrl": "https://www.vr-dachau.de/meine-bank/wir-vor-ort/unsere-geschaeftsstellen.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Oberbayern Südost eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbank-obb-so.de",
+    "careersUrl": "https://www.vrbank-obb-so.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Würzburg eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-bank-wuerzburg.de",
+    "careersUrl": "https://www.vr-bank-wuerzburg.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Sauerland eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vb-sauerland.de",
+    "careersUrl": "https://www.vb-sauerland.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Schwarzwald-Donau-Neckar eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vbsdn.de",
+    "careersUrl": "https://www.vbsdn.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Volksbank Zollernalb eG",
+    "licenceCountry": "DE",
+    "website": "https://www.volksbank-zollernalb.de",
+    "careersUrl": "https://volksbank-jobs.de/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Ihre Heimatbank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-heimatbank.de",
+    "careersUrl": "https://www.vr-heimatbank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank im südlichen Franken eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-sf.de",
+    "careersUrl": "https://www.vr-sf.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Lahn-Dill eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbank-lahndill.de",
+    "careersUrl": "https://www.vrbank-lahndill.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank München Land eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-bank-muenchen-land.de",
+    "careersUrl": "https://www.vr-bank-muenchen-land.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Nord eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbanknord.de",
+    "careersUrl": "https://www.vrbanknord.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Ried-Überwald eG",
+    "licenceCountry": "DE",
+    "website": "https://www.raiba-ried.de",
+    "careersUrl": "https://www.meinevrbank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Schleswig-Holstein Mitte eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbank-sh-mitte.de",
+    "careersUrl": "https://www.vrbank-sh-mitte.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank Südpfalz eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbank-suedpfalz.de",
+    "careersUrl": "https://www.linkedin.com/company/vr-bank-suedpfalz/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR Bank zwischen den Meeren eG",
+    "licenceCountry": "DE",
+    "website": "https://www.meine-vrbank.de",
+    "careersUrl": "https://www.meine-vrbank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR GenoBank DonauWald eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-genobank.de",
+    "careersUrl": "https://www.vr-genobank.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR TeilhaberBank Metropolregion Nürnberg eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-teilhaberbank.de",
+    "careersUrl": "https://www.vr-teilhaberbank.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR-Bank Alb-Blau-Donau eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbankabd.de",
+    "careersUrl": "https://www.vrbankabd.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR-Bank Augsburg-Ostallgäu eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbank-augsburg-ostallgaeu.de",
+    "careersUrl": "https://www.vrbank-augsburg-ostallgaeu.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR-Bank Erding eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-bank-erding.de",
+    "careersUrl": "https://www.vr-bank-erding.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR-Bank Landau-Mengkofen eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbanklm.de",
+    "careersUrl": "https://www.vrbanklm.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VR-Bank Mittelfranken Mitte eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vr-mfr.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "error"
+  },
+  {
+    "name": "VR-Bank Rottal-Inn eG",
+    "licenceCountry": "DE",
+    "website": "https://www.vrbk.de",
+    "careersUrl": "https://www.vrbk.de/meine-bank/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "VS Digital",
+    "licenceCountry": "MT",
+    "website": "https://www.figma.com/design/mQlpK97GfMFNAlXToGX4oq/VSC-Landing?node-id=0-1&t=OZ977XpGYqyBbDWr-1",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "wBTCb.cz, s.r.o.",
+    "licenceCountry": "CZ",
+    "website": "https://bit.plus",
+    "careersUrl": "https://www.linkedin.com/company/world-btc-business-wbtcb/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Webot",
+    "licenceCountry": "IE",
+    "website": "https://www.webot.com/eu",
+    "careersUrl": "https://www.webot.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Webull | Webull Europe | Cashify | RGLTD",
+    "licenceCountry": "NL",
+    "website": "https://www.webull.eu",
+    "careersUrl": "https://www.linkedin.com/company/webull-europe/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Westerwald Bank eG Volks- und Raiffeisenbank",
+    "licenceCountry": "DE",
+    "website": "https://www.westerwaldbank.de",
+    "careersUrl": "https://westerwaldbank.helixjobs.com/_/career",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "WHITE TECH LTD",
+    "licenceCountry": "HR",
+    "website": "https://whitely.hr/hr",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "WhiteBIT EU",
+    "licenceCountry": "AT",
+    "website": "https://whitebit.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Wiesbadener Volksbank eG",
+    "licenceCountry": "DE",
+    "website": "https://www.wvb.de",
+    "careersUrl": "https://www.wvb.de/karriere.html",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "WOORTON",
+    "licenceCountry": "FR",
+    "website": "https://www.woorton.com",
+    "careersUrl": "https://www.linkedin.com/company/woorton/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "wSw PortfolioManagement AG",
+    "licenceCountry": "DE",
+    "website": "https://www.wsw-pm.de",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Wyden Capital AG",
+    "licenceCountry": "LI",
+    "website": "https://www.wydencapital.com/en",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "XBG",
+    "licenceCountry": "GR",
+    "website": "https://www.xeniosblockchaingroup.com",
+    "careersUrl": "https://xeniosblockchaingroup.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Xcoins",
+    "licenceCountry": "MT",
+    "website": "https://xcoins.com/en",
+    "careersUrl": "https://xcoins.com/en/careers/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "XTB Limited",
+    "licenceCountry": "CY",
+    "website": "https://www.xtb.com/cy",
+    "careersUrl": "https://www.xtb.com/careers",
+    "ats": "lever",
+    "slug": "xtb",
+    "status": "ok"
+  },
+  {
+    "name": "YouHodler",
+    "licenceCountry": "IT",
+    "website": "https://www.youhodler.eu",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Young Platform",
+    "licenceCountry": "IT",
+    "website": "https://youngplatform.com",
+    "careersUrl": "https://youngplatform.com/jobs/",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ZBX",
+    "licenceCountry": "MT",
+    "website": "https://www.zbx.com",
+    "careersUrl": "https://www.zbx.com/about/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "Zebedee Europe B.V.",
+    "licenceCountry": "NL",
+    "website": "https://zbd.gg",
+    "careersUrl": "https://zbdpay.com/careers",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "zerohash europe",
+    "licenceCountry": "NL",
+    "website": "https://zerohash.com/eu",
+    "careersUrl": "https://www.linkedin.com/company/zerohash/jobs",
+    "ats": "other",
+    "slug": null,
+    "status": "ok"
+  },
+  {
+    "name": "ZEUS Anstalt für Vermögensverwaltung",
+    "licenceCountry": "LI",
+    "website": "https://www.zeus-management.li/en",
+    "careersUrl": null,
+    "ats": "none_found",
+    "slug": null,
+    "status": "none_found"
+  },
+  {
+    "name": "Zodia",
+    "licenceCountry": "LU",
+    "website": "https://zodia-custody.com",
+    "careersUrl": "https://zodia-custody.com/careers/",
+    "ats": "workable",
+    "slug": "zodia-custody",
+    "status": "ok"
+  }
+]
