@@ -65,6 +65,22 @@ function asCompany(
   };
 }
 
+function isNonCompanyHost(website: string): boolean {
+  try {
+    const host = new URL(website).hostname.replace(/^www\./, "").toLowerCase();
+    return (
+      host === "figma.com" ||
+      host.endsWith(".figma.com") ||
+      host === "docs.google.com" ||
+      host === "drive.google.com" ||
+      host === "notion.so" ||
+      host.endsWith(".notion.site")
+    );
+  } catch {
+    return false;
+  }
+}
+
 export async function discoverCompany(firm: FirmRow): Promise<Company> {
   let website = firm.website.trim();
   if (!website) {
@@ -72,6 +88,11 @@ export async function discoverCompany(firm: FirmRow): Promise<Company> {
   }
   if (!/^https?:\/\//i.test(website)) {
     website = `https://${website}`;
+  }
+
+  // Source rows sometimes point at design docs / non-company hosts
+  if (isNonCompanyHost(website)) {
+    return asCompany(firm, null, null);
   }
 
   // 1) Check website URL itself for ATS host

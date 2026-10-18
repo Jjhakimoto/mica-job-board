@@ -23,6 +23,26 @@ const CAREERS_PATHS = [
   "/opportunities",
 ];
 
+const INVALID_SLUGS = new Set([
+  "embed",
+  "api",
+  "www",
+  "apply",
+  "job_board",
+  "job_app",
+  "jobs",
+  "js",
+]);
+
+function greenhouseSlugFromUrl(url: URL): string | null {
+  const forParam = url.searchParams.get("for");
+  if (forParam && !INVALID_SLUGS.has(forParam.toLowerCase())) return forParam;
+  const parts = url.pathname.split("/").filter(Boolean);
+  const first = parts[0] ?? null;
+  if (first && !INVALID_SLUGS.has(first.toLowerCase())) return first;
+  return null;
+}
+
 export function detectAtsFromUrl(rawUrl: string): AtsDetection | null {
   let url: URL;
   try {
@@ -34,19 +54,43 @@ export function detectAtsFromUrl(rawUrl: string): AtsDetection | null {
   const path = url.pathname;
 
   // Greenhouse
-  let m = host.match(/^(?:boards|job-boards)\.greenhouse\.io$/i);
-  if (m || host === "boards.greenhouse.io" || host === "job-boards.greenhouse.io") {
-    const slug = path.split("/").filter(Boolean)[0] ?? null;
-    if (slug) return { ats: "greenhouse", slug, careersUrl: rawUrl };
+  let m: RegExpMatchArray | null;
+  if (host === "boards.greenhouse.io" || host === "job-boards.greenhouse.io") {
+    const slug = greenhouseSlugFromUrl(url);
+    if (slug) {
+      return {
+        ats: "greenhouse",
+        slug,
+        careersUrl: `https://boards.greenhouse.io/${slug}`,
+      };
+    }
   }
   if (host === "grnh.se" || host.endsWith(".grnh.se")) {
-    const slug = path.split("/").filter(Boolean)[0] ?? null;
+    const slug = greenhouseSlugFromUrl(url);
     if (slug) return { ats: "greenhouse", slug, careersUrl: rawUrl };
   }
-  // embedded greenhouse path on company site sometimes redirects; also job-boards subdomain patterns
-  m = path.match(/boards\.greenhouse\.io\/([^/?#]+)/i);
-  if (m) return { ats: "greenhouse", slug: m[1], careersUrl: rawUrl };
-
+  // Absolute greenhouse URLs embedded in query strings / redirects
+  m = rawUrl.match(
+    /https?:\/\/(?:boards|job-boards)\.greenhouse\.io\/(?:embed\/[^?\s"'<>]*\?for=|)?([a-zA-Z0-9_-]+)/i,
+  );
+  if (m) {
+    const slug = m[1];
+    if (slug && !INVALID_SLUGS.has(slug.toLowerCase())) {
+      return {
+        ats: "greenhouse",
+        slug,
+        careersUrl: `https://boards.greenhouse.io/${slug}`,
+      };
+    }
+  }
+  const forInString = rawUrl.match(/greenhouse\.io\/[^?\s"'<>]*[?&]for=([a-zA-Z0-9_-]+)/i);
+  if (forInString && !INVALID_SLUGS.has(forInString[1].toLowerCase())) {
+    return {
+      ats: "greenhouse",
+      slug: forInString[1],
+      careersUrl: `https://boards.greenhouse.io/${forInString[1]}`,
+    };
+  }
   // Lever
   if (host === "jobs.lever.co") {
     const slug = path.split("/").filter(Boolean)[0] ?? null;
@@ -79,6 +123,18 @@ export function detectAtsFromUrl(rawUrl: string): AtsDetection | null {
 }
 
 export function detectAtsFromHtml(html: string, baseUrl: string): AtsDetection | null {
+  // Greenhouse embed scripts: .../embed/job_board/js?for=slug
+  const ghFor = html.match(
+    /(?:boards|job-boards)\.greenhouse\.io\/[^"'>\s]*[?&]for=([a-zA-Z0-9_-]+)/i,
+  );
+  if (ghFor && !INVALID_SLUGS.has(ghFor[1].toLowerCase())) {
+    return {
+      ats: "greenhouse",
+      slug: ghFor[1],
+      careersUrl: `https://boards.greenhouse.io/${ghFor[1]}`,
+    };
+  }
+
   const patterns: { re: RegExp; ats: AtsKind; slugGroup: number }[] = [
     {
       re: /https?:\/\/(?:boards|job-boards)\.greenhouse\.io\/([a-zA-Z0-9_-]+)/gi,
@@ -109,8 +165,10 @@ export function detectAtsFromHtml(html: string, baseUrl: string): AtsDetection |
     const match = re.exec(html);
     if (match) {
       const slug = match[slugGroup];
-      if (!slug || slug === "www" || slug === "apply" || slug === "api") continue;
-      return { ats, slug, careersUrl: match[0] };
+      if (!slug || INVALID_SLUGS.has(slug.toLowerCase())) continue;
+      const careersUrl =
+        ats === "greenhouse" ? `https://boards.greenhouse.io/${slug}` : match[0];
+      return { ats, slug, careersUrl };
     }
   }
 

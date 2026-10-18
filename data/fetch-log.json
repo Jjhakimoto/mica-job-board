@@ -1,0 +1,31 @@
+{
+  "fetchedAt": "2026-10-18T17:09:34.543Z",
+  "companiesAttempted": 23,
+  "jobs": 410,
+  "failures": [
+    {
+      "company": "Kraken Digital Asset Exchange (“Kraken”)",
+      "ats": "ashby",
+      "slug": "kraken",
+      "error": "Ashby kraken: HTTP 404"
+    },
+    {
+      "company": "Kraken, Kraken Digital Asset Exchange",
+      "ats": "ashby",
+      "slug": "kraken",
+      "error": "Ashby kraken: HTTP 404"
+    },
+    {
+      "company": "MoonPay Europe B.V.",
+      "ats": "greenhouse",
+      "slug": "moonpay",
+      "error": "Greenhouse moonpay: HTTP 404"
+    },
+    {
+      "company": "AMINA EU",
+      "ats": "personio",
+      "slug": "amina",
+      "error": "fetch failed"
+    }
+  ]
+}
