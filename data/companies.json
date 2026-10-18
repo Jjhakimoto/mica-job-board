@@ -1,0 +1,2978 @@
+[
+  {
+    "name": "21bitcoin",
+    "country": "AT",
+    "website": "https://www.21bitcoin.app",
+    "careersUrl": "https://21bitcoin.app/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "360 Treasury Systems AG",
+    "country": "DE",
+    "website": "https://www.360t.com",
+    "careersUrl": "https://360t.jobs.personio.de",
+    "ats": "personio",
+    "slug": "360t"
+  },
+  {
+    "name": "Acheron | Acheron Trading",
+    "country": "NL",
+    "website": "https://www.acherontrading.com",
+    "careersUrl": "https://www.acherontrading.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "AK JENSEN NORWAY AS",
+    "country": "NO",
+    "website": "https://www.akj.com",
+    "careersUrl": "https://www.akj.com/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Alaric Securities",
+    "country": "BG",
+    "website": "https://alaricsecurities.com",
+    "careersUrl": "https://alaricsecurities.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ALPHACAP",
+    "country": "FR",
+    "website": "https://alphacap.fr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "AlphaRoute",
+    "country": "LV",
+    "website": "https://www.kangaexchange.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Altarius Asset Management Limited",
+    "country": "MT",
+    "website": "https://www.altariusgroup.com",
+    "careersUrl": "https://altariusgroup.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Altcoins",
+    "country": "BG",
+    "website": "https://altcoins.bg",
+    "careersUrl": "https://altcoins.bg/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Amdax B.V.|Amdax Group|Novelist",
+    "country": "NL",
+    "website": "https://www.amdax.com/nl",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "AMINA EU",
+    "country": "AT",
+    "website": "https://eu.aminagroup.com",
+    "careersUrl": "https://amina.jobs.personio.com",
+    "ats": "personio",
+    "slug": "amina"
+  },
+  {
+    "name": "AnCeKa Vermögensbetreuungs Aktiengesellschaft",
+    "country": "DE",
+    "website": "https://www.anceka.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "APLO",
+    "country": "FR",
+    "website": "https://www.aplo.io",
+    "careersUrl": "https://www.aplo.io/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Aquilla Nummus Ltd",
+    "country": "CY",
+    "website": "https://www.aquillanummus.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ari10 | Ari10 NL | WEB3 Technology B.V. | RGLTD Cashify",
+    "country": "NL",
+    "website": "https://ari10.com/en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "AS LHV Pank",
+    "country": "EE",
+    "website": "https://www.lhv.ee",
+    "careersUrl": "https://www.lhv.ee/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Atrya Technologies SIA",
+    "country": "LV",
+    "website": "https://www.hansepay.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "AvianLabs Netherlands B.V.",
+    "country": "NL",
+    "website": "https://sling.money",
+    "careersUrl": "https://morsemoney.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "B2C2",
+    "country": "LU",
+    "website": "https://www.b2c2.com",
+    "careersUrl": "https://www.b2c2.com/join-b2c2/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Baader Bank AG",
+    "country": "DE",
+    "website": "https://www.baaderbank.de",
+    "careersUrl": "https://www.baaderbank.de/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Backpack EU",
+    "country": "LV",
+    "website": "https://eu.backpack.exchange",
+    "careersUrl": "https://jobs.backpack.app/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Baden-Württembergische Wertpapierbörse GmbH",
+    "country": "DE",
+    "website": "https://www.bsdex.de/de",
+    "careersUrl": "https://www.bsdex.de/de/jobs/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Banca Sella",
+    "country": "IT",
+    "website": "https://www.sella.it",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bank Frick AG",
+    "country": "LI",
+    "website": "https://www.bankfrick.li/en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bankhaus Scheich Wertpapierspezialist AG",
+    "country": "DE",
+    "website": "https://www.bankhaus-scheich.de",
+    "careersUrl": "https://www.bankhaus-scheich.de/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Banking Circle",
+    "country": "LU",
+    "website": "https://bankingcircle.com",
+    "careersUrl": "https://www.bankingcircle.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BANQUE DELUBAC",
+    "country": "FR",
+    "website": "https://www.delubac.com",
+    "careersUrl": "https://www.delubac.com/page-404/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BARE BITCOIN AS",
+    "country": "NO",
+    "website": "https://barebitcoin.no",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BBVA",
+    "country": "ES",
+    "website": "https://www.bbva.es",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BCASH",
+    "country": "GR",
+    "website": "https://www.bcash.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Belayer",
+    "country": "BG",
+    "website": "https://www.belayer.bg",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bequant",
+    "country": "MT",
+    "website": "https://bequant.pro",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BingX EU",
+    "country": "AT",
+    "website": "https://www.bingx.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bison Bank",
+    "country": "PT",
+    "website": "https://bisonbank.com",
+    "careersUrl": "https://bisonbank.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bit2Me",
+    "country": "ES",
+    "website": "https://bit2me.com",
+    "careersUrl": "https://app.bit2me.com/sign-up",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BITCOIN STORE",
+    "country": "HR",
+    "website": "https://www.bitstore.net",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitcoin Suisse (Europe) AG",
+    "country": "LI",
+    "website": "https://www.bitcoinsuisse.com",
+    "careersUrl": "https://bitcoinsuisse.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BITCOINMAT",
+    "country": "SK",
+    "website": "https://bitcoinmat.sk",
+    "careersUrl": "https://bitcoinmat.sk/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "bitFlyer EUROPE",
+    "country": "LU",
+    "website": "https://bitflyer.com/en-eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BitGo Europe GmbH",
+    "country": "DE",
+    "website": "https://www.bitgo.de/entities/bitgoeuropegmbh",
+    "careersUrl": "https://boards.greenhouse.io/bitgo",
+    "ats": "greenhouse",
+    "slug": "bitgo"
+  },
+  {
+    "name": "Bitmymoney B.V.",
+    "country": "NL",
+    "website": "https://www.bitmymoney.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitonic B.V.",
+    "country": "NL",
+    "website": "https://bitonic.nl/en",
+    "careersUrl": "https://bitonic.nl/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitpanda",
+    "country": "AT",
+    "website": "https://www.bitpanda.com",
+    "careersUrl": "https://group.bitpanda.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitpanda",
+    "country": "MT",
+    "website": "https://www.bitpanda.com",
+    "careersUrl": "https://group.bitpanda.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitpanda Asset Management GmbH",
+    "country": "DE",
+    "website": "https://www.bitpanda.com",
+    "careersUrl": "https://group.bitpanda.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BitPay B.V.",
+    "country": "NL",
+    "website": "https://www.bitpay.com",
+    "careersUrl": "https://www.bitpay.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BITSTACK",
+    "country": "FR",
+    "website": "https://bitstack-app.com",
+    "careersUrl": "https://jobs.ashbyhq.com/bitstack",
+    "ats": "ashby",
+    "slug": "bitstack"
+  },
+  {
+    "name": "BitStaete B.V.",
+    "country": "NL",
+    "website": "https://bitstaete.nl",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitstamp",
+    "country": "LU",
+    "website": "https://www.bitstamp.net",
+    "careersUrl": "https://www.bitstamp.net/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bittimaatti",
+    "country": "FI",
+    "website": "https://bittimaatti.fi",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bitvavo B.V.",
+    "country": "NL",
+    "website": "https://bitvavo.com/nl",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bleap",
+    "country": "LV",
+    "website": "https://www.bleap.finance",
+    "careersUrl": "https://www.bleap.finance/about/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BlockBen",
+    "country": "LV",
+    "website": "https://blockben.com/en",
+    "careersUrl": "https://blockben.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Blockchain.com",
+    "country": "MT",
+    "website": "https://www.blockchain.com",
+    "careersUrl": "https://www.blockchain.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Blockrise",
+    "country": "NL",
+    "website": "https://www.blockrise.com/en",
+    "careersUrl": "https://blockrise.jobs.personio.com",
+    "ats": "personio",
+    "slug": "blockrise"
+  },
+  {
+    "name": "BLOX B.V.",
+    "country": "NL",
+    "website": "https://weareblox.com",
+    "careersUrl": "https://careers.coinmerce.io/nl/overview?employer=BLOX",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BLUE EMI",
+    "country": "LT",
+    "website": "https://blueemi.com",
+    "careersUrl": "https://blueemi.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BNY",
+    "country": "BE",
+    "website": "https://www.bny.com",
+    "careersUrl": "https://www.bny.com/corporate/global/en/about-us/careers/work-with-us.html",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Boerse Stuttgart Digital Custody GmbH",
+    "country": "DE",
+    "website": "https://www.bsdigital.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bpifrance Investissement",
+    "country": "FR",
+    "website": "https://www.bpifrance.fr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bridge",
+    "country": "LU",
+    "website": "https://www.bridge.xyz",
+    "careersUrl": "https://stripe.com/jobs/search?tags=Bridge",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BTC Direct Europe B.V.",
+    "country": "NL",
+    "website": "https://my.btcdirect.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bullish Europe GmbH",
+    "country": "DE",
+    "website": "https://bullish.com/home-de",
+    "careersUrl": "https://www.bullish.com/us/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BV & P Vermögen AG",
+    "country": "DE",
+    "website": "https://www.bvp-vermoegen.de",
+    "careersUrl": "https://bvp-vermoegen.de/bvp-vermoegen/jobs-karriere/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "BVNK",
+    "country": "MT",
+    "website": "https://bvnk.com",
+    "careersUrl": "https://www.bvnk.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Bybit",
+    "country": "AT",
+    "website": "https://www.bybit.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CACEIS BANK",
+    "country": "FR",
+    "website": "https://www.caceis.com",
+    "careersUrl": "https://www.caceis.com/who-we-are/join-us",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CAIXABANK",
+    "country": "ES",
+    "website": "https://caixabank.es",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Calamatta Cuschieri Investment Services Limited",
+    "country": "MT",
+    "website": "https://cc.com.mt",
+    "careersUrl": "https://moneybase.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CAPITAL WALLET SA CAPITAL WALLET CAPITAL WALLET GREECE",
+    "country": "GR",
+    "website": "https://www.capitalwallet.com/eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "capital.com",
+    "country": "CY",
+    "website": "https://www.capital.com",
+    "careersUrl": "https://capital.com/en-int/about-us/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CECABANK",
+    "country": "ES",
+    "website": "https://www.cecabank.es",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Celsion Bank AG",
+    "country": "LI",
+    "website": "https://www.celsion-finance.com",
+    "careersUrl": "https://celsion-bank.com/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Change",
+    "country": "NL",
+    "website": "https://www.changeinvest.com",
+    "careersUrl": "https://careers.changeinvest.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CheckSig",
+    "country": "IT",
+    "website": "https://WWW.CHECKSIG.COM",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CIRCLE",
+    "country": "FR",
+    "website": "https://www.circle.com/en",
+    "careersUrl": "https://careers.circle.com/us/en",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ClearBank Europe B.V.",
+    "country": "NL",
+    "website": "https://clear.bank",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Clearstream",
+    "country": "LU",
+    "website": "https://www.clearstream.com/clearstream-en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Cloverum",
+    "country": "CY",
+    "website": "https://www.cloverum.com",
+    "careersUrl": "https://www.cloverum.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coinbase",
+    "country": "LU",
+    "website": "https://coinbase.com",
+    "careersUrl": "https://www.coinbase.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coinfinity",
+    "country": "AT",
+    "website": "https://coinfinity.co",
+    "careersUrl": "https://coinfinity.co/karriere",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CoinFlip",
+    "country": "IT",
+    "website": "https://coinflip.tech/it-IT",
+    "careersUrl": "https://coinflip.wd5.myworkdayjobs.com/en-US/Coinflip_External",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coingate",
+    "country": "LT",
+    "website": "https://coingate.com",
+    "careersUrl": "https://coingate.com/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "COINHOUSE",
+    "country": "FR",
+    "website": "https://www.coinhouse.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coinify",
+    "country": "DK",
+    "website": "https://www.coinify.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CoinJar",
+    "country": "IE",
+    "website": "https://www.coinjar.com",
+    "careersUrl": "https://apply.workable.com/coinjar",
+    "ats": "workable",
+    "slug": "coinjar"
+  },
+  {
+    "name": "COINMATE a.s.",
+    "country": "CZ",
+    "website": "https://coinmate.io/cs",
+    "careersUrl": "https://coinmate.io/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coinmerce B.V..",
+    "country": "NL",
+    "website": "https://coinmerce.io",
+    "careersUrl": "https://careers.coinmerce.io/en/coinmerce-group",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Coinmotion",
+    "country": "FI",
+    "website": "https://coinmotion.com",
+    "careersUrl": "https://careers.coinmotion.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "COINSHARES ASSET MANAGEMENT",
+    "country": "FR",
+    "website": "https://coinshares.com",
+    "careersUrl": "https://careers.coinshares.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "COLLECT & EXCHANGE CY LTD",
+    "country": "CY",
+    "website": "https://collectnexchange.cy",
+    "careersUrl": "https://collectnexchange.cy/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "COMETH",
+    "country": "FR",
+    "website": "https://cometh.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Commerzbank Aktiengesellschaft",
+    "country": "DE",
+    "website": "https://www.commerzbank.com",
+    "careersUrl": "https://www.commerzbank.de/group/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "COMPLYCRYPTO DEPOSITORY EU LIMITED",
+    "country": "CY",
+    "website": "https://www.complycrypto.eu",
+    "careersUrl": "https://complycrypto.eu/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CONCEDUS GmbH",
+    "country": "DE",
+    "website": "https://concedus.com",
+    "careersUrl": "https://concedus.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Confirmo Limited",
+    "country": "IE",
+    "website": "https://confirmo.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Conio",
+    "country": "IT",
+    "website": "https://www.conio.com",
+    "careersUrl": "https://www.conio.com/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CPS",
+    "country": "LU",
+    "website": "https://www.enum8.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CRIPTAN",
+    "country": "ES",
+    "website": "https://www.criptan.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CROSSMINT",
+    "country": "ES",
+    "website": "https://www.crossmint.com",
+    "careersUrl": "https://crossmint.notion.site/Jobs-at-Crossmint-72c5ada11b2347b5bfe475bf97ed29c9",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Crypto Finance (Deutschland) GmbH",
+    "country": "DE",
+    "website": "https://www.crypto-finance.com/germany/de",
+    "careersUrl": "https://www.crypto-finance.com/jobs/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CRYPTO-AM",
+    "country": "FR",
+    "website": "https://crypto-assets-management.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Crypto.com",
+    "country": "MT",
+    "website": "https://crypto.com",
+    "careersUrl": "https://crypto.com/en/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Cryptonow",
+    "country": "AT",
+    "website": "https://www.cryptonow.at",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "CRYPTOPOCKET",
+    "country": "ES",
+    "website": "https://cryptopocket.io",
+    "careersUrl": "https://cryptopocket.io/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Cryptosmart",
+    "country": "IT",
+    "website": "https://cryptosmart.it",
+    "careersUrl": "https://cryptosmart.it/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Cryptovoucher",
+    "country": "SK",
+    "website": "https://cryptovoucher.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "D2X",
+    "country": "NL",
+    "website": "https://d2x.com",
+    "careersUrl": "https://d2x.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DADAT",
+    "country": "AT",
+    "website": "https://www.dad.at",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Damex",
+    "country": "MT",
+    "website": "https://www.damex.io",
+    "careersUrl": "https://damex.io/about",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DASK KRYPTO",
+    "country": "CY",
+    "website": "https://www.daskkrypto.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DCS | HappyCoins",
+    "country": "NL",
+    "website": "https://happycoins.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DEBLOCK",
+    "country": "FR",
+    "website": "https://deblock.com",
+    "careersUrl": "https://apply.workable.com/deblock",
+    "ats": "workable",
+    "slug": "deblock"
+  },
+  {
+    "name": "DekaBank Deutsche Girozentrale",
+    "country": "DE",
+    "website": "https://www.deka.de/deka-gruppe",
+    "careersUrl": "https://www.deka.de/privatkunden/fehler/fehler_404",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DESKOIN",
+    "country": "FR",
+    "website": "https://www.deskoin.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Deutsche Bank Aktiengesellschaft",
+    "country": "DE",
+    "website": "https://www.deutsche-bank.de",
+    "careersUrl": "https://careers.db.com/index?kid=careers-index-html.redirect-en.shortcut&language_id=3",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Deutsche WertpapierService Bank AG (dwpbank)",
+    "country": "DE",
+    "website": "https://dwpbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Dietrich & Richter Private Asset Management AG",
+    "country": "DE",
+    "website": "https://www.drpam.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Digital Assist",
+    "country": "BG",
+    "website": "https://digitalassist.bg",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DLT Securities GmbH",
+    "country": "DE",
+    "website": "https://www.dlt-finance.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Donau-Iller-Bank eG",
+    "country": "DE",
+    "website": "https://www.donau-iller-bank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DonauCapital Wertpapier GmbH",
+    "country": "DE",
+    "website": "https://www.donaucapital.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DUE",
+    "country": "ES",
+    "website": "https://www.opendue.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "DZ BANK AG Deutsche Zentral-Genossenschaftsbank",
+    "country": "DE",
+    "website": "https://www.dzbank.de",
+    "careersUrl": "https://www.dzbank.de/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "e Toro",
+    "country": "CY",
+    "website": "https://www.etoro.com",
+    "careersUrl": "https://www.etoro.com/about/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ELECTROCOIN",
+    "country": "HR",
+    "website": "https://electrocoin.eu/hr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "EU Internet Ventures |EUIV|BNXA | OSL Pay | WisPay",
+    "country": "NL",
+    "website": "https://banxa.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "EUWAX AG",
+    "country": "DE",
+    "website": "https://www.euwax-ag.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Everest",
+    "country": "MT",
+    "website": "https://www.everest.org",
+    "careersUrl": "https://www.everest.org/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FalconX",
+    "country": "MT",
+    "website": "https://www.falconx.io",
+    "careersUrl": "https://www.falconx.io/work-with-us",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FAZIL CRYPTO",
+    "country": "ES",
+    "website": "https://fazilcrypto.com/es",
+    "careersUrl": "https://fazilcrypto.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FEEL MINING / WIGL ET OTHILA",
+    "country": "FR",
+    "website": "https://feel-mining.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Fels wealth GmbH",
+    "country": "DE",
+    "website": "https://followmymoney.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FF Digital",
+    "country": "BG",
+    "website": "https://www.ffdigital.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Fiat Republic Netherlands B.V.",
+    "country": "NL",
+    "website": "https://fiatrepublic.com",
+    "careersUrl": "https://fiatrepublic.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FIDUS Finanz AG",
+    "country": "DE",
+    "website": "https://fidus-ag.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FINARY",
+    "country": "FR",
+    "website": "https://finary.com/en",
+    "careersUrl": "https://jobs.ashbyhq.com/finary",
+    "ats": "ashby",
+    "slug": "finary"
+  },
+  {
+    "name": "FINCTEK",
+    "country": "FR",
+    "website": "https://finctek.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Finst B.V.",
+    "country": "NL",
+    "website": "https://finst.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FIPTO",
+    "country": "FR",
+    "website": "https://www.fipto.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Firefish",
+    "country": "SK",
+    "website": "https://firefish.io",
+    "careersUrl": "https://docs.firefish.io/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FIRI AS",
+    "country": "NO",
+    "website": "https://firi.com/no",
+    "careersUrl": "https://firi.com/no/om-oss/karriere",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "flatexDEGIRO Bank AG",
+    "country": "DE",
+    "website": "https://www.flatexdegiro.com/de/flatexdegiro-bank/login",
+    "careersUrl": "https://flatexdegiro.com/English/company/about-us/default.aspx",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Floin AG",
+    "country": "LI",
+    "website": "https://floin.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FLOWDESK EUROPE",
+    "country": "FR",
+    "website": "https://www.flowdesk.co",
+    "careersUrl": "https://www.flowdesk.co/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Frankfurter Volksbank Rhein/Main eG",
+    "country": "DE",
+    "website": "https://www.frankfurter-volksbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "FUMBI",
+    "country": "SK",
+    "website": "https://fumbi.network/sk",
+    "careersUrl": "https://my.fumbi.network/join/index?lang=sk&page=individual",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Gate",
+    "country": "MT",
+    "website": "https://www.gate.com/en-eu",
+    "careersUrl": "https://www.gate.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "GateHub Exchange",
+    "country": "SI",
+    "website": "https://www.gatehub.net",
+    "careersUrl": "https://www.gatehub.net/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "GCEX|GC Exchange",
+    "country": "DK",
+    "website": "https://gc.exchange",
+    "careersUrl": "https://gc.exchange/gcex-careers?hsLang=en",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Gemini",
+    "country": "MT",
+    "website": "https://www.gemini.com",
+    "careersUrl": "https://www.gemini.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "GG Digital, a.s.",
+    "country": "CZ",
+    "website": "https://www.goldengate.cz",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "GOIN",
+    "country": "FR",
+    "website": "https://goin-invest.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "GOIN CRYPTO",
+    "country": "ES",
+    "website": "https://www.goin.app",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hannoversche Volksbank eG",
+    "country": "DE",
+    "website": "https://www.hannoversche-volksbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hauck Aufhäuser Digital Custody GmbH",
+    "country": "DE",
+    "website": "https://www.hal-privatbank.com/asset-servicing/digitale-assets/regulierte-kryptoverwahrung",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hercle",
+    "country": "IT",
+    "website": "https://www.hercle.financial",
+    "careersUrl": "https://hercle.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "HEXARQ",
+    "country": "FR",
+    "website": "https://www.hexarq.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hidden Road Partners CIV NL B.V.",
+    "country": "NL",
+    "website": "https://hiddenroad.com",
+    "careersUrl": "https://ripple.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hodleris",
+    "country": "LV",
+    "website": "https://hfinance.eu",
+    "careersUrl": "https://hfinance.eu/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hodli",
+    "country": "IT",
+    "website": "https://hodli.com",
+    "careersUrl": "https://hodli.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "HPB d.d.",
+    "country": "HR",
+    "website": "https://www.hpb.hr",
+    "careersUrl": "https://www.hpb.hr/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Huddlestock GmbH",
+    "country": "DE",
+    "website": "https://www.huddlestock.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Hyphe Markets GmbH",
+    "country": "DE",
+    "website": "https://hyphe.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ICEBLOCK",
+    "country": "FR",
+    "website": "https://www.iceblockinvestments.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Iconomi",
+    "country": "SI",
+    "website": "https://www.iconomi.com",
+    "careersUrl": "https://www.iconomi.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "IG Europe GmbH",
+    "country": "DE",
+    "website": "https://www.ig.com/de",
+    "careersUrl": "https://www.iggroup.com/about-us/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ihre Volksbank eG Neckar Odenwald Main Tauber",
+    "country": "DE",
+    "website": "https://www.ihre-vb.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ILAVO GROUP a.s.",
+    "country": "CZ",
+    "website": "https://www.ilavo.cz/cs",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ilirika",
+    "country": "SI",
+    "website": "https://www.ilirika.si",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "IN KAPITAL",
+    "country": "HR",
+    "website": "https://www.inkapital.hr",
+    "careersUrl": "https://www.inkapital.hr/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Incrementum",
+    "country": "SI",
+    "website": "https://incrementum.si",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Interactive Brokers Ireland Limited",
+    "country": "IE",
+    "website": "https://www.interactivebrokers.ie",
+    "careersUrl": "https://www.interactivebrokers.ie/en/general/about/careers-splash.php",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Invity Finance s.r.o.",
+    "country": "CZ",
+    "website": "https://www.invity.io",
+    "careersUrl": "https://www.invity.io/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "IP wBTCb solutions, s.r.o.",
+    "country": "CZ",
+    "website": "https://bit.plus",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "IQANA TECHNOLOGIES S.L.",
+    "country": "ES",
+    "website": "https://iqana.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ISF Institut Deutsch-Schweizer Finanzdienstleistungen GmbH",
+    "country": "DE",
+    "website": "https://www.isf-institut.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "J2TX Ltd",
+    "country": "CY",
+    "website": "https://www.j2tx.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Januar",
+    "country": "DK",
+    "website": "https://www.januar.com",
+    "careersUrl": "https://careers.januar.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Joh. Berenberg, Gossler & Co. KG",
+    "country": "DE",
+    "website": "https://www.berenberg.de",
+    "careersUrl": "https://careers.berenberg.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "justTRADE",
+    "country": "DE",
+    "website": "https://www.justtrade.com",
+    "careersUrl": "data:image/png;base64,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",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "K33 MARKETS as",
+    "country": "NO",
+    "website": "https://www.k33.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Kaiser Partner Privatbank",
+    "country": "LI",
+    "website": "https://kaiserpartner.bank",
+    "careersUrl": "https://kaiserpartner.bank/career/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KBC",
+    "country": "BE",
+    "website": "https://www.kbc.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KEYROCK",
+    "country": "FR",
+    "website": "https://keyrock.com",
+    "careersUrl": "https://jobs.ashbyhq.com/keyrock",
+    "ats": "ashby",
+    "slug": "keyrock"
+  },
+  {
+    "name": "Kraken Digital Asset Exchange (“Kraken”)",
+    "country": "IE",
+    "website": "https://www.kraken.com",
+    "careersUrl": "https://jobs.ashbyhq.com/kraken",
+    "ats": "ashby",
+    "slug": "kraken"
+  },
+  {
+    "name": "Kraken, Kraken Digital Asset Exchange",
+    "country": "IE",
+    "website": "https://www.kraken.com",
+    "careersUrl": "https://jobs.ashbyhq.com/kraken",
+    "ats": "ashby",
+    "slug": "kraken"
+  },
+  {
+    "name": "KRIPTOMAT",
+    "country": "HR",
+    "website": "https://kriptomat.hr",
+    "careersUrl": "https://kriptomat.hr/wp-content/uploads/2024/03/jobs.png",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KRYPTO KNIGHT",
+    "country": "CY",
+    "website": "https://www.krypto-knight.com",
+    "careersUrl": "https://krypto-knight.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KSW Vermögensverwaltung AG",
+    "country": "DE",
+    "website": "https://www.ksw-vermoegen.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KuCoin EU",
+    "country": "AT",
+    "website": "https://www.kucoin.eu",
+    "careersUrl": "https://www.kucoin.com/en-eu/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "KUTXABANK",
+    "country": "ES",
+    "website": "https://portal.kutxabank.es/cs",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Kvarn X",
+    "country": "FI",
+    "website": "https://www.kvarnx.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Lang & Schwarz TradeCenter AG & Co. KG",
+    "country": "DE",
+    "website": "https://www.ls-tc.de/de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Legend Trading",
+    "country": "IE",
+    "website": "https://www.legendtrading.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Legion",
+    "country": "MT",
+    "website": "https://legion.cc",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "LEONOD",
+    "country": "FR",
+    "website": "https://app.bullbitcoin.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "LGT Bank AG",
+    "country": "LI",
+    "website": "https://www.lgt.com/li-en",
+    "careersUrl": "https://www.lgt.com/global-en/career/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Lightspark Payments Europe AS",
+    "country": "EE",
+    "website": "https://eu.lightspark.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Lightyear Europe AS",
+    "country": "EE",
+    "website": "https://lightyear.com",
+    "careersUrl": "https://careers.lightyear.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Lunar Block",
+    "country": "DK",
+    "website": "https://www.lunar.app/dk/privat/krypto",
+    "careersUrl": "https://www.lunar.app/en/personal/jobs-and-career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Madison Six|crypto4me",
+    "country": "SK",
+    "website": "https://madisonsix.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MEATAL GEAR",
+    "country": "FR",
+    "website": "https://metalgear.xyz",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MERIA",
+    "country": "FR",
+    "website": "https://www.meria.com",
+    "careersUrl": "https://www.meria.com/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MINOS GLOBAL",
+    "country": "ES",
+    "website": "https://minos.global",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MipSoftware s.r.o.",
+    "country": "CZ",
+    "website": "https://coinero.cz",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MLP Banking AG",
+    "country": "DE",
+    "website": "https://www.mlp.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Monflo",
+    "country": "NL",
+    "website": "https://www.monflo.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "MoonPay Europe B.V.",
+    "country": "NL",
+    "website": "https://www.moonpay.com",
+    "careersUrl": "https://boards.greenhouse.io/moonpay",
+    "ats": "greenhouse",
+    "slug": "moonpay"
+  },
+  {
+    "name": "MP Developers s.r.o.",
+    "country": "CZ",
+    "website": "https://www.dase.com",
+    "careersUrl": "https://www.dase.com/cs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Münchner Bank eG",
+    "country": "DE",
+    "website": "https://www.muenchner-bank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Myntkaup",
+    "country": "IS",
+    "website": "https://myntkaup.is",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Myriad Capital",
+    "country": "LT",
+    "website": "https://myriadcapital.lt",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "N26 Bank SE",
+    "country": "DE",
+    "website": "https://n26.com",
+    "careersUrl": "https://boards.greenhouse.io/n26",
+    "ats": "greenhouse",
+    "slug": "n26"
+  },
+  {
+    "name": "NAGA X",
+    "country": "CY",
+    "website": "https://www.nagax.com/eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "NBX",
+    "country": "NO",
+    "website": "https://nbx.com",
+    "careersUrl": "https://nbx.com/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Neverless",
+    "country": "LV",
+    "website": "https://neverless.com",
+    "careersUrl": "https://neverless.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Newrails",
+    "country": "LT",
+    "website": "https://www.newrails.xyz",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Nexdesk",
+    "country": "LV",
+    "website": "https://nexdesk.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Noah",
+    "country": "LV",
+    "website": "https://noah.com/en/eu",
+    "careersUrl": "https://noah.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Nodu Digital",
+    "country": "LV",
+    "website": "https://nodu.fi",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Noemon Finance Ltd",
+    "country": "CY",
+    "website": "https://www.noemon.finance",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "NOEMON TECH LTD",
+    "country": "CY",
+    "website": "https://www.noemon.tech",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "NorthCrypto",
+    "country": "FI",
+    "website": "https://www.northcrypto.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Northstake",
+    "country": "DK",
+    "website": "https://www.northstake.dk",
+    "careersUrl": "https://www.northstake.dk/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Okazio",
+    "country": "SK",
+    "website": "https://okazio.sk",
+    "careersUrl": "https://okazio.sk/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "OKX",
+    "country": "MT",
+    "website": "https://www.okx.com",
+    "careersUrl": "https://www.okx.com/en-us/join",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Olmipay",
+    "country": "MT",
+    "website": "https://Olmipay.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "One Trading Exchange B.V.",
+    "country": "NL",
+    "website": "https://www.onetrading.com",
+    "careersUrl": "https://www.onetrading.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "OP Digital",
+    "country": "MT",
+    "website": "https://www.openpayd.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "OPENBANK",
+    "country": "ES",
+    "website": "https://www.openbank.es",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Openbank Deutschland AG",
+    "country": "DE",
+    "website": "https://www.openbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Orcabay",
+    "country": "SI",
+    "website": "https://orcabay.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "OSL EU",
+    "country": "AT",
+    "website": "https://www.osl.com/eu",
+    "careersUrl": "https://www.osl.com/en",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Partners Banka, a.s.",
+    "country": "CZ",
+    "website": "https://www.partnersbanka.cz",
+    "careersUrl": "https://www.partnersbanka.cz/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Paybis",
+    "country": "LV",
+    "website": "https://paybis.com",
+    "careersUrl": "https://paybis.com/career/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Payhound",
+    "country": "MT",
+    "website": "https://www.payhound.com",
+    "careersUrl": "https://payhound.com/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PAYMIUM",
+    "country": "FR",
+    "website": "https://www.paymium.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Paymonade",
+    "country": "LI",
+    "website": "https://www.paymonade.tech",
+    "careersUrl": "https://www.paymonade.tech/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PAYTOP",
+    "country": "FR",
+    "website": "https://www.paytop.com",
+    "careersUrl": "https://www.paytop.com/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PELICAN EXCHANGE EUROPE (CY) LTD",
+    "country": "CY",
+    "website": "https://www.pelicaneu.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PIRAEUS BANK Société Anonyme (S.A.)",
+    "country": "GR",
+    "website": "https://www.piraeusbank.gr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Pluso a.s.",
+    "country": "CZ",
+    "website": "https://www.pluso.cz",
+    "careersUrl": "https://www.pluso.cz/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Plutos Vermögensverwaltung AG",
+    "country": "DE",
+    "website": "https://www.plutos.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PM MTF LTD",
+    "country": "CY",
+    "website": "https://mtf.perpetuals.com/,",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "PROSEGUR CRYPTO",
+    "country": "ES",
+    "website": "https://www.prosegurcrypto.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Push / Aave Push",
+    "country": "IE",
+    "website": "https://push.co",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "QWARKS",
+    "country": "FR",
+    "website": "https://www.qwarks.fr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisebank Auerbach-Freihung eG",
+    "country": "DE",
+    "website": "https://www.rb-af.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Aidlingen eG",
+    "country": "DE",
+    "website": "https://www.IhrZiel.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Falkenstein-Wörth",
+    "country": "DE",
+    "website": "https://www.rbfalkenstein-woerth.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Goldener Steig-Dreisessel eG",
+    "country": "DE",
+    "website": "https://www.rb-gsd.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank im Fuldaer Land eG",
+    "country": "DE",
+    "website": "https://www.rb-fuldaerland.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank im Oberland eG",
+    "country": "DE",
+    "website": "https://www.oberlandbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Isar-Loisachtal eG",
+    "country": "DE",
+    "website": "https://www.rileg.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Kreis Kelheim eG",
+    "country": "DE",
+    "website": "https://www.rbkk.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Rehling eG",
+    "country": "DE",
+    "website": "https://www.raiba-rehling.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Raiffeisenbank Schwaben Mitte eG",
+    "country": "DE",
+    "website": "https://www.rb-schwaben.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ramp Network",
+    "country": "IE",
+    "website": "https://rampnetwork.com",
+    "careersUrl": "https://rampnetwork.com/join-us",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "RCUBE ASSET MANAGEMENT",
+    "country": "FR",
+    "website": "https://rcube.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "REGULAR",
+    "country": "FR",
+    "website": "https://www.regular.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "RELAI",
+    "country": "FR",
+    "website": "https://relai.app",
+    "careersUrl": "https://relai.app/career/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "RENTA 4",
+    "country": "ES",
+    "website": "https://www.r4.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Revolut",
+    "country": "CY",
+    "website": "https://www.revolut.com/en-CY/crypto",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ripple Payments Europe S.A.",
+    "country": "LU",
+    "website": "https://ripple.com",
+    "careersUrl": "https://boards.greenhouse.io/ripple",
+    "ats": "greenhouse",
+    "slug": "ripple"
+  },
+  {
+    "name": "RIV-Digital",
+    "country": "IT",
+    "website": "https://riv-digital.it",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Robinhood",
+    "country": "LT",
+    "website": "https://www.robinhood.com",
+    "careersUrl": "https://careers.robinhood.com/?",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Ronin EM Ltd",
+    "country": "CY",
+    "website": "https://em.ron.in",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "RUFIJI",
+    "country": "FR",
+    "website": "https://www.rufiji.capital",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "RULEMATCH",
+    "country": "LI",
+    "website": "https://www.rulematch.com/europe",
+    "careersUrl": "https://www.rulematch.com/crypto/join/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Safello AB",
+    "country": "SE",
+    "website": "https://www.safello.com",
+    "careersUrl": "https://safello.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "SafeLynx",
+    "country": "DK",
+    "website": "https://www.safelynx.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Scalable Capital Bank GmbH",
+    "country": "DE",
+    "website": "https://www.scalable.capital",
+    "careersUrl": "https://de.scalable.capital/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "SHARES",
+    "country": "FR",
+    "website": "https://www.shares.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Simple Coin s.r.o.",
+    "country": "CZ",
+    "website": "https://www.simplecoin.eu",
+    "careersUrl": "https://www.simplecoin.eu/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Simplex",
+    "country": "LT",
+    "website": "https://simplex.com",
+    "careersUrl": "https://www.simplex.com/join-us",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "sino Aktiengesellschaft",
+    "country": "DE",
+    "website": "https://www.sino.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Skrill, NETELLER",
+    "country": "IE",
+    "website": "https://www.skrill.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "SMART VALOR",
+    "country": "LI",
+    "website": "https://smartvalor.com/en",
+    "careersUrl": "https://smartvalor.com/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Smartbroker AG",
+    "country": "DE",
+    "website": "https://www.smartbrokerplus.de/de-de",
+    "careersUrl": "https://smartbroker.jobs.personio.com",
+    "ats": "personio",
+    "slug": "smartbroker"
+  },
+  {
+    "name": "SOCIETE GENERALE - FORGE",
+    "country": "FR",
+    "website": "https://www.sgforge.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Socios.com",
+    "country": "MT",
+    "website": "https://www.socios.com",
+    "careersUrl": "https://www.socios.com/blog/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Solidgate , SG Digital Assets",
+    "country": "CY",
+    "website": "https://solidgate.com/casp",
+    "careersUrl": "https://jobs.ashbyhq.com/solidgate",
+    "ats": "ashby",
+    "slug": "solidgate"
+  },
+  {
+    "name": "Spar- und Kreditbank Rheinstetten eG",
+    "country": "DE",
+    "website": "https://www.skb-rheinstetten.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Stable Mint Ltd.",
+    "country": "MT",
+    "website": "https://stablemint.io",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Standard Chartered",
+    "country": "LU",
+    "website": "https://www.sc.com",
+    "careersUrl": "https://www.sc.com/en/global-careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "STOKR",
+    "country": "LU",
+    "website": "https://stokr.io",
+    "careersUrl": "https://stokr.io/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "StoneX",
+    "country": "IE",
+    "website": "https://www.stonex.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Strike",
+    "country": "MT",
+    "website": "https://strike.me/en-GB",
+    "careersUrl": "https://job-boards.greenhouse.io/strike",
+    "ats": "greenhouse",
+    "slug": "strike"
+  },
+  {
+    "name": "Sutor Bank GmbH",
+    "country": "DE",
+    "website": "https://www.sutorbank.de",
+    "careersUrl": "https://www.sutorbank.de/en/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "SWISSBORG",
+    "country": "FR",
+    "website": "https://swissborg.com",
+    "careersUrl": "https://jobs.lever.co/swissborg",
+    "ats": "lever",
+    "slug": "swissborg"
+  },
+  {
+    "name": "Swissquote",
+    "country": "LU",
+    "website": "https://www.swissquote.com/en-lu/private",
+    "careersUrl": "https://www.swissquote.com/en/careers?",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Sygnum Europe",
+    "country": "LI",
+    "website": "https://www.sygnum.com/eu",
+    "careersUrl": "https://www.sygnum.com/careers-portal/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Tangany GmbH",
+    "country": "DE",
+    "website": "https://www.tangany.com",
+    "careersUrl": "https://tangany.com/jobs",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "TEROXX DIGITAL ASSET LTD",
+    "country": "CY",
+    "website": "https://www.teroxx.com",
+    "careersUrl": "https://www.teroxx.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Tesseract",
+    "country": "FI",
+    "website": "https://tesseract.fi",
+    "careersUrl": "https://tesseract.fi/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "tothemoon",
+    "country": "CY",
+    "website": "https://tothemoon.com",
+    "careersUrl": "https://tothemoon.com/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Trade Republic Bank GmbH",
+    "country": "DE",
+    "website": "https://traderepublic.com",
+    "careersUrl": "https://traderepublic.com/en-de/about",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Traders Place GmbH & Co. KGaA",
+    "country": "DE",
+    "website": "https://tradersplace.de/angebot/uebersicht/kryptowaehrungen",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Tradevest",
+    "country": "DE",
+    "website": "https://www.tradevest.ai",
+    "careersUrl": "https://tv-development-gmbh.jobs.personio.de",
+    "ats": "personio",
+    "slug": "tv-development-gmbh"
+  },
+  {
+    "name": "Tradevest Markets AG",
+    "country": "DE",
+    "website": "https://www.tradevest.ai/de",
+    "careersUrl": "https://tv-development-gmbh.jobs.personio.de",
+    "ats": "personio",
+    "slug": "tv-development-gmbh"
+  },
+  {
+    "name": "Tradias GmbH",
+    "country": "DE",
+    "website": "https://www.tradias.de",
+    "careersUrl": "https://www.tradias.de/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Trading 212",
+    "country": "CY",
+    "website": "https://www.trading212.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Trading.com",
+    "country": "CY",
+    "website": "https://www.trading.com/eu",
+    "careersUrl": "https://www.trading.com/eu/trading-with-leverage",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "TRIA BRIDGE",
+    "country": "CY",
+    "website": "https://triabridge.com",
+    "careersUrl": "https://triabridge.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Twino",
+    "country": "LV",
+    "website": "https://www.twino.eu/en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "TÝR MARKETS AS",
+    "country": "NO",
+    "website": "https://www.tyrmarkets.net/no",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Unlimit Crypto Ltd (ex Stable Defi Ltd)",
+    "country": "CY",
+    "website": "https://www.crypto.unlimit.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "V-Bank AG",
+    "country": "DE",
+    "website": "https://www.v-bank.com",
+    "careersUrl": "https://www.v-bank.com/error404",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Validvent",
+    "country": "AT",
+    "website": "https://validvent.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VBU Volksbank im Unterland eG",
+    "country": "DE",
+    "website": "https://www.vbu-volksbank.de",
+    "careersUrl": "https://vbu-volksbank.helixjobs.com/vbustellenboerse/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Vereinigte Volksbank Raiffeisenbank eG, Reinheim",
+    "country": "DE",
+    "website": "https://www.vvrb.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Vereinigte VR Bank eG",
+    "country": "DE",
+    "website": "https://www.vereinigte-vrbk.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Vermögensbutler GmbH",
+    "country": "DE",
+    "website": "https://www.vermoegensbutler.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Virtu Financial Ireland Limited",
+    "country": "IE",
+    "website": "https://www.virtu.com",
+    "careersUrl": "https://boards.greenhouse.io/virtu",
+    "ats": "greenhouse",
+    "slug": "virtu"
+  },
+  {
+    "name": "Vivid Money B.V.",
+    "country": "NL",
+    "website": "https://vivid.money",
+    "careersUrl": "https://vivid.jobs.personio.de",
+    "ats": "personio",
+    "slug": "vivid"
+  },
+  {
+    "name": "Volksbank Alb eG",
+    "country": "DE",
+    "website": "https://www.voba-alb.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Backnang eG",
+    "country": "DE",
+    "website": "https://www.volksbank-backnang.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Baumberge eG",
+    "country": "DE",
+    "website": "https://www.volksbank-baumberge.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Beilstein-Ilsfeld-Abstatt eG",
+    "country": "DE",
+    "website": "https://www.vb-bia.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank eG",
+    "country": "DE",
+    "website": "https://www.vb-eg.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank eG - Die Gestalterbank",
+    "country": "DE",
+    "website": "https://www.gestalterbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Euskirchen eG",
+    "country": "DE",
+    "website": "https://www.eu-banking.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Göppingen eG",
+    "country": "DE",
+    "website": "https://www.volksbank-goeppingen.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Heiden eG",
+    "country": "DE",
+    "website": "https://www.vbheiden.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Mittlerer Schwarzwald eG",
+    "country": "DE",
+    "website": "https://www.voba-msw.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Olpe-Wenden-Drolshagen eG",
+    "country": "DE",
+    "website": "https://www.voba-owd.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Bayern Mitte eG",
+    "country": "DE",
+    "website": "https://www.vr-bayernmitte.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Dachau eG",
+    "country": "DE",
+    "website": "https://www.vr-dachau.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Oberbayern Südost eG",
+    "country": "DE",
+    "website": "https://www.vrbank-obb-so.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Raiffeisenbank Würzburg eG",
+    "country": "DE",
+    "website": "https://www.vr-bank-wuerzburg.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Sauerland eG",
+    "country": "DE",
+    "website": "https://www.vb-sauerland.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Schwarzwald-Donau-Neckar eG",
+    "country": "DE",
+    "website": "https://www.vbsdn.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Volksbank Zollernalb eG",
+    "country": "DE",
+    "website": "https://www.volksbank-zollernalb.de",
+    "careersUrl": "https://volksbank-jobs.de/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Ihre Heimatbank eG",
+    "country": "DE",
+    "website": "https://www.vr-heimatbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank im südlichen Franken eG",
+    "country": "DE",
+    "website": "https://www.vr-sf.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Lahn-Dill eG",
+    "country": "DE",
+    "website": "https://www.vrbank-lahndill.de",
+    "careersUrl": "https://vrbank-lahndill.helixjobs.com/_/joblist",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank München Land eG",
+    "country": "DE",
+    "website": "https://www.vr-bank-muenchen-land.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Nord eG",
+    "country": "DE",
+    "website": "https://www.vrbanknord.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Ried-Überwald eG",
+    "country": "DE",
+    "website": "https://www.raiba-ried.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Schleswig-Holstein Mitte eG",
+    "country": "DE",
+    "website": "https://www.vrbank-sh-mitte.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank Südpfalz eG",
+    "country": "DE",
+    "website": "https://www.vrbank-suedpfalz.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR Bank zwischen den Meeren eG",
+    "country": "DE",
+    "website": "https://www.meine-vrbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR GenoBank DonauWald eG",
+    "country": "DE",
+    "website": "https://www.vr-genobank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR TeilhaberBank Metropolregion Nürnberg eG",
+    "country": "DE",
+    "website": "https://www.vr-teilhaberbank.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Alb-Blau-Donau eG",
+    "country": "DE",
+    "website": "https://www.vrbankabd.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Augsburg-Ostallgäu eG",
+    "country": "DE",
+    "website": "https://www.vrbank-augsburg-ostallgaeu.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Erding eG",
+    "country": "DE",
+    "website": "https://www.vr-bank-erding.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Landau-Mengkofen eG",
+    "country": "DE",
+    "website": "https://www.vrbanklm.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Mittelfranken Mitte eG",
+    "country": "DE",
+    "website": "https://www.vr-mfr.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VR-Bank Rottal-Inn eG",
+    "country": "DE",
+    "website": "https://www.vrbk.de",
+    "careersUrl": "https://www.vrbk.de/jobs.html",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "VS Digital",
+    "country": "MT",
+    "website": "https://www.figma.com/design/mQlpK97GfMFNAlXToGX4oq/VSC-Landing?node-id=0-1&t=OZ977XpGYqyBbDWr-1",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "wBTCb.cz, s.r.o.",
+    "country": "CZ",
+    "website": "https://bit.plus",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Webot",
+    "country": "IE",
+    "website": "https://www.webot.com/eu",
+    "careersUrl": "https://www.webot.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Webull | Webull Europe | Cashify | RGLTD",
+    "country": "NL",
+    "website": "https://www.webull.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Westerwald Bank eG Volks- und Raiffeisenbank",
+    "country": "DE",
+    "website": "https://www.westerwaldbank.de",
+    "careersUrl": "https://westerwaldbank.helixjobs.com/_/career",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "WHITE TECH LTD",
+    "country": "HR",
+    "website": "https://whitely.hr/hr",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "WhiteBIT EU",
+    "country": "AT",
+    "website": "https://whitebit.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Wiesbadener Volksbank eG",
+    "country": "DE",
+    "website": "https://www.wvb.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "WOORTON",
+    "country": "FR",
+    "website": "https://www.woorton.com",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "wSw PortfolioManagement AG",
+    "country": "DE",
+    "website": "https://www.wsw-pm.de",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Wyden Capital AG",
+    "country": "LI",
+    "website": "https://www.wydencapital.com/en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "XBG",
+    "country": "GR",
+    "website": "https://www.xeniosblockchaingroup.com",
+    "careersUrl": "https://xeniosblockchaingroup.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Xcoins",
+    "country": "MT",
+    "website": "https://xcoins.com/en",
+    "careersUrl": "https://xcoins.com/en/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "XTB Limited",
+    "country": "CY",
+    "website": "https://www.xtb.com/cy",
+    "careersUrl": "https://www.xtb.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "YouHodler",
+    "country": "IT",
+    "website": "https://www.youhodler.eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Young Platform",
+    "country": "IT",
+    "website": "https://youngplatform.com",
+    "careersUrl": "https://youngplatform.com/careers/",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ZBX",
+    "country": "MT",
+    "website": "https://www.zbx.com",
+    "careersUrl": "https://www.zbx.com/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Zebedee Europe B.V.",
+    "country": "NL",
+    "website": "https://zbd.gg",
+    "careersUrl": "https://zbd.gg/careers",
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "zerohash europe",
+    "country": "NL",
+    "website": "https://zerohash.com/eu",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "ZEUS Anstalt für Vermögensverwaltung",
+    "country": "LI",
+    "website": "https://www.zeus-management.li/en",
+    "careersUrl": null,
+    "ats": "other",
+    "slug": null
+  },
+  {
+    "name": "Zodia",
+    "country": "LU",
+    "website": "https://zodia-custody.com",
+    "careersUrl": "https://apply.workable.com/zodia-custody",
+    "ats": "workable",
+    "slug": "zodia-custody"
+  }
+]
