@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "Jake",
+    "asOf": "2026-10-18",
+    "birthday": "1997-08-18",
+    "location": "Xgħajra, Malta"
+  },
+  "income": {
+    "woltNetMonthly": 2250,
+    "woltLow": 2200,
+    "woltHigh": 2300,
+    "sideNetMonthly": 250,
+    "sideLow": 200,
+    "sideHigh": 300,
+    "equityVestAmount": 800,
+    "equityVestLow": 700,
+    "equityVestHigh": 900,
+    "equityEveryMonths": 3,
+    "monthsUntilNextVest": 3,
+    "stockPriceFactor": 1,
+    "incomeGrowthAnnual": 0
+  },
+  "expenses": {
+    "maltaMonthly": 1700,
+    "maltaIncludesMortgage": true,
+    "actualCashSavedMonthly": 800,
+    "leanMonthly": 1200,
+    "abroadMonthly": 2000,
+    "abroadMonths": [5, 6, 7, 8, 9, 10],
+    "addMortgageOnTopWhenAbroad": false,
+    "abroadPatternFrom": "2027-05"
+  },
+  "assets": {
+    "liquid": 17500,
+    "cashNotInMarket": 0,
+    "apartmentValue": 300000,
+    "apartmentRealGrowthAnnual": 0,
+    "saleProceeds": 60000
+  },
+  "returns": {
+    "realAnnual": 0.03
+  },
+  "mortgage": {
+    "balance": 218000,
+    "termMonths": 396,
+    "paymentMonthly": 600,
+    "insuranceMonthly": 0,
+    "promoAnnualRate": 0.02,
+    "allowBalanceToRise": false,
+    "stepUpDate": "2029-10-01",
+    "stepUpAnnualRate": 0.035,
+    "stepUpPaymentOverride": null
+  },
+  "independence": {
+    "annualSpend": 25000,
+    "withdrawalRate": 0.04
+  },
+  "milestone": {
+    "date": "2027-08-18",
+    "liquidTarget": 30000,
+    "stretchTarget": 40000
+  },
+  "savingsRates": [500, 800, 1000, 1250],
+  "savingsAlreadyIncludeEquity": false,
+  "worstCase": {
+    "shockMonth": "2027-04",
+    "unemploymentMonths": 12,
+    "marketDrop": 0.3,
+    "freelanceMonthly": 0,
+    "replacementIncomeMonthly": 0
+  },
+  "jobLoss": {
+    "month": "2027-04",
+    "freelanceMonthly": 0,
+    "lean": false,
+    "replacementIncomeMonthly": 0
+  },
+  "recession": {
+    "month": "2027-04",
+    "unemploymentMonths": 12,
+    "marketDrop": 0.3,
+    "freelanceMonthly": 0,
+    "lean": false,
+    "replacementIncomeMonthly": 0
+  },
+  "transition": {
+    "startMonth": "2027-07",
+    "trialMonths": 2,
+    "trialNet": 1500,
+    "afterNet": 2500,
+    "keepPartTimeWolt": false,
+    "partTimeWoltNet": 0,
+    "equityContinuesIfPartTime": false
+  },
+  "sell": {
+    "month": "2028-01",
+    "rentMonthly": null
+  },
+  "room": {
+    "startMonth": "2027-07",
+    "rentMonthly": 0
+  },
+  "upside": {
+    "startMonth": "2028-01",
+    "offers": [
+      { "id": "48k", "label": "€48k gross", "grossAnnual": 48000 },
+      { "id": "55k", "label": "€55k gross", "grossAnnual": 55000 }
+    ],
+    "keepSideIncome": true,
+    "useFlatTax": false,
+    "flatTaxRate": 0.15
+  },
+  "tax": {
+    "brackets": [
+      { "upTo": 12000, "rate": 0, "subtract": 0 },
+      { "upTo": 16000, "rate": 0.15, "subtract": 1800 },
+      { "upTo": 60000, "rate": 0.25, "subtract": 3400 },
+      { "upTo": null, "rate": 0.35, "subtract": 9400 }
+    ],
+    "socialSecurityWeeklyCap": 55.93,
+    "weeksPerYear": 52
+  },
+  "triggers": {
+    "runwayMonths": 9,
+    "pauseInvesting": true,
+    "roomFromUnemploymentMonth": 3,
+    "sellDecisionUnemploymentMonth": 9,
+    "minNetToLeave": 2500,
+    "minRunwayToLeaveMonths": 12,
+    "sellEquityOnVest": true,
+    "lines": [
+      "Runway under 9 months: cut to lean mode, pause investing, and keep new money in cash.",
+      "Month 1 after a job loss: start Toptal or other freelance, and add C-360 hours.",
+      "Month 3 after a job loss: rent the second bedroom.",
+      "Month 9 after a job loss: decide whether to sell the apartment.",
+      "Do not leave Wolt for an offer below €2,500 net unless it is in writing and runway is over 12 months.",
+      "Sell DoorDash equity when it vests, and move the proceeds into a broad ETF such as VWCE."
+    ]
+  },
+  "checkIns": [
+    {
+      "month": "2026-10",
+      "liquid": 17500,
+      "note": "Opening balance, after this month's salary."
+    }
+  ]
+}
