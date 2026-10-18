@@ -1,0 +1,29 @@
+{
+  "name": "mica-job-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MiCA-licensed crypto firm job board — discover ATS boards and fetch public job postings",
+  "scripts": {
+    "discover": "tsx scripts/discover-ats.ts",
+    "fetch-jobs": "tsx scripts/fetch-jobs.ts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

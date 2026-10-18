@@ -1,0 +1,260 @@
+:root {
+  --bg0: #0f1419;
+  --bg1: #1a2332;
+  --bg2: #243044;
+  --ink: #e8eef6;
+  --muted: #9aafc4;
+  --accent: #3dcea8;
+  --accent-dim: #2a9d7c;
+  --line: rgba(232, 238, 246, 0.12);
+  --warn: #e8b86d;
+  --radius: 10px;
+  --font-sans: "DM Sans", ui-sans-serif, sans-serif;
+  --font-display: "Instrument Serif", Georgia, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(61, 206, 168, 0.16), transparent 55%),
+    radial-gradient(900px 500px at 90% 0%, rgba(90, 140, 220, 0.14), transparent 50%),
+    linear-gradient(180deg, var(--bg1) 0%, var(--bg0) 40%, #0c1016 100%);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  width: min(1100px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 2.5rem 0 4rem;
+}
+
+.hero {
+  margin-bottom: 2rem;
+}
+
+.hero h1 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: clamp(2.4rem, 5vw, 3.6rem);
+  letter-spacing: -0.02em;
+  margin: 0 0 0.5rem;
+  line-height: 1.1;
+}
+
+.hero p {
+  margin: 0;
+  color: var(--muted);
+  max-width: 38rem;
+  font-size: 1.05rem;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  margin-top: 1.25rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.stats strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: 1.6fr repeat(3, 1fr);
+  gap: 0.75rem;
+  margin: 1.5rem 0 1.25rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(15, 20, 25, 0.45);
+  backdrop-filter: blur(8px);
+}
+
+@media (max-width: 800px) {
+  .filters {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 520px) {
+  .filters {
+    grid-template-columns: 1fr;
+  }
+}
+
+.filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.filters input,
+.filters select {
+  font: inherit;
+  font-size: 0.95rem;
+  text-transform: none;
+  letter-spacing: normal;
+  color: var(--ink);
+  background: var(--bg2);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.55rem 0.7rem;
+}
+
+.filters input:focus,
+.filters select:focus {
+  outline: 2px solid rgba(61, 206, 168, 0.45);
+  outline-offset: 1px;
+}
+
+.results-meta {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.job-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.job-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.35rem 1rem;
+  padding: 0.95rem 1rem;
+  border-bottom: 1px solid var(--line);
+  transition: background 0.15s ease;
+}
+
+.job-item:hover {
+  background: rgba(61, 206, 168, 0.06);
+}
+
+.job-item h2 {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.job-item h2 a {
+  color: var(--ink);
+}
+
+.job-item h2 a:hover {
+  color: var(--accent);
+}
+
+.job-meta {
+  margin: 0.2rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.job-meta span + span::before {
+  content: "·";
+  margin: 0 0.45rem;
+  opacity: 0.55;
+}
+
+.badge {
+  align-self: start;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent);
+  border: 1px solid rgba(61, 206, 168, 0.35);
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
+  white-space: nowrap;
+}
+
+.section {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.section h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 2rem;
+  margin: 0 0 0.4rem;
+}
+
+.section > p {
+  margin: 0 0 1rem;
+  color: var(--muted);
+}
+
+.careers-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2;
+  gap: 1.5rem;
+}
+
+@media (max-width: 700px) {
+  .careers-list {
+    columns: 1;
+  }
+}
+
+.careers-list li {
+  break-inside: avoid;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.careers-list .name {
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.careers-list .country {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-left: 0.35rem;
+}
+
+.empty {
+  padding: 2rem 0;
+  color: var(--muted);
+}
+
+footer {
+  margin-top: 3rem;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
