@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { classifyDepartment, keepJob } from "./classify";
+import { classifyDepartment, keepJob, postedWithin } from "./classify";
 
 describe("classifyDepartment", () => {
   it("uses the first matching keyword group", () => {
@@ -8,11 +8,23 @@ describe("classifyDepartment", () => {
     assert.equal(classifyDepartment("Senior Data Engineer"), "Data");
     assert.equal(classifyDepartment("Product Engineer"), "Engineering");
     assert.equal(classifyDepartment("Product Manager"), "Product");
+    assert.equal(classifyDepartment("Content Manager"), "Content");
+    assert.equal(classifyDepartment("Senior Copywriter"), "Content");
     assert.equal(classifyDepartment("Growth Lead"), "Marketing & Growth");
     assert.equal(classifyDepartment("Business Development Manager"), "Sales & BD");
     assert.equal(classifyDepartment("Financial Controller"), "Finance");
     assert.equal(classifyDepartment("People Partner"), "Operations");
     assert.equal(classifyDepartment("Office Coordinator"), "Other");
+  });
+});
+
+describe("postedWithin", () => {
+  it("keeps roles posted inside the window and drops unknown dates", () => {
+    const now = Date.parse("2026-10-22T18:00:00.000Z");
+    assert.equal(postedWithin("2026-10-22T08:00:00.000Z", 1, now), true);
+    assert.equal(postedWithin("2026-10-10T18:00:00.000Z", 7, now), false);
+    assert.equal(postedWithin("2026-10-10T18:00:00.000Z", 30, now), true);
+    assert.equal(postedWithin(null, 7, now), false);
   });
 });
 

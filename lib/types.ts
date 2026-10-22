@@ -30,6 +30,7 @@ export const DEPARTMENTS = [
   "Data",
   "Engineering",
   "Product",
+  "Content",
   "Marketing & Growth",
   "Sales & BD",
   "Finance",

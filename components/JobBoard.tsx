@@ -4,7 +4,14 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useMemo } from "react";
 import { EmailSignup } from "@/components/EmailSignup";
 import { countryLabel } from "@/lib/countries";
+import { postedWithin } from "@/lib/classify";
 import { DEPARTMENTS, type Company, type Job } from "@/lib/types";
+
+const POSTED_OPTIONS = [
+  { value: "1", label: "Last 24 hours" },
+  { value: "7", label: "Last 7 days" },
+  { value: "30", label: "Last 30 days" },
+];
 
 function formatStamp(iso: string): string {
   return `${new Intl.DateTimeFormat("en-GB", {
@@ -37,6 +44,7 @@ export function JobBoard({ jobs, companies }: { jobs: Job[]; companies: Company[
   const country = params.get("country") ?? "";
   const department = params.get("department") ?? "";
   const remoteOnly = params.get("remote") === "1";
+  const posted = params.get("posted") ?? "";
   const query = params.get("q") ?? "";
 
   function update(next: Record<string, string | null>) {
@@ -55,10 +63,11 @@ export function JobBoard({ jobs, companies }: { jobs: Job[]; companies: Company[
       if (country && job.licenceCountry !== country) return false;
       if (department && job.department !== department) return false;
       if (remoteOnly && !job.remote) return false;
+      if (posted && !postedWithin(job.postedAt, Number(posted))) return false;
       if (!needle) return true;
       return `${job.title} ${job.company} ${job.location}`.toLowerCase().includes(needle);
     });
-  }, [jobs, country, department, remoteOnly, query]);
+  }, [jobs, country, department, remoteOnly, posted, query]);
 
   const countries = useMemo(
     () => [...new Set(jobs.map((job) => job.licenceCountry))].sort((a, b) => a.localeCompare(b)),
@@ -72,7 +81,7 @@ export function JobBoard({ jobs, companies }: { jobs: Job[]; companies: Company[
   const otherFirms = companies
     .filter((company) => company.ats === "other" && company.careersUrl)
     .sort((a, b) => a.name.localeCompare(b.name));
-  const filtersActive = Boolean(country || department || remoteOnly || query);
+  const filtersActive = Boolean(country || department || remoteOnly || posted || query);
 
   return (
     <div>
@@ -136,6 +145,21 @@ export function JobBoard({ jobs, companies }: { jobs: Job[]; companies: Company[
               ))}
             </select>
           </label>
+          <label className="block font-sans text-sm">
+            <span className="mb-1 block text-stone-600">Date posted</span>
+            <select
+              value={posted}
+              onChange={(event) => update({ posted: event.target.value || null })}
+              className="w-full rounded-lg border border-stone-300 bg-white px-3 py-2 outline-none ring-emerald-700 focus:ring-2"
+            >
+              <option value="">Any time</option>
+              {POSTED_OPTIONS.map((option) => (
+                <option key={option.value} value={option.value}>
+                  {option.label}
+                </option>
+              ))}
+            </select>
+          </label>
           <label className="flex items-center gap-2 font-sans text-sm text-stone-800 sm:col-span-2 lg:col-span-4">
             <input
               type="checkbox"
@@ -150,7 +174,7 @@ export function JobBoard({ jobs, companies }: { jobs: Job[]; companies: Company[
         {filtersActive ? (
           <button
             type="button"
-            onClick={() => update({ country: null, department: null, remote: null, q: null })}
+            onClick={() => update({ country: null, department: null, remote: null, posted: null, q: null })}
             className="mt-3 font-sans text-sm text-emerald-900 underline"
           >
             Clear filters

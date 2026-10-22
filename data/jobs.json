@@ -1,5 +1,209 @@
 [
   {
+    "id": "greenhouse:bvnk:5013831101",
+    "company": "BVNK",
+    "licenceCountry": "MT",
+    "title": "Solutions Engineer - EMEA",
+    "location": "London / Spain",
+    "remote": false,
+    "department": "Engineering",
+    "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5013831101",
+    "postedAt": "2026-10-22T15:43:31.000Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "lever:xtb:f8b96618-22f3-4a72-b4da-56baf890149c",
+    "company": "XTB Limited",
+    "licenceCountry": "CY",
+    "title": "Transaction Reporting Analyst",
+    "location": "Warsaw, PL, hybrid",
+    "remote": false,
+    "department": "Other",
+    "url": "https://jobs.eu.lever.co/xtb/f8b96618-22f3-4a72-b4da-56baf890149c",
+    "postedAt": "2026-10-22T14:37:15.265Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "ashby:kraken.com:6064492d-3fe8-449a-8013-fb196853409c",
+    "company": "Kraken Digital Asset Exchange (“Kraken”)",
+    "licenceCountry": "IE",
+    "title": "Copywriter - Kraken Pro",
+    "location": "Europe, European Union",
+    "remote": true,
+    "department": "Content",
+    "url": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
+    "postedAt": "2026-10-22T14:18:49.003Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000157142259",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Working Student IT-Support (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Operations",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000157142259",
+    "postedAt": "2026-10-22T13:49:52.697Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000157110179",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "(Senior) Platform Engineer - Real-Time Infrastructure - Banking (m/f/x)",
+    "location": "Wien, Wien, Austria",
+    "remote": false,
+    "department": "Engineering",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000157110179",
+    "postedAt": "2026-10-22T11:45:21.709Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000157059639",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Senior Security Incident Response Analyst (m/f/x)",
+    "location": "Berlin, BE, Germany",
+    "remote": false,
+    "department": "Other",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000157059639",
+    "postedAt": "2026-10-22T07:56:47.844Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000157057217",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Senior Security Incident Response Analyst (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Other",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000157057217",
+    "postedAt": "2026-10-22T07:56:24.741Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "ashby:finary:069f2a6a-410c-4174-ada8-4caa7753d193",
+    "company": "FINARY",
+    "licenceCountry": "FR",
+    "title": "Stage - monteur vidéo",
+    "location": "Paris, Ile de France, France",
+    "remote": false,
+    "department": "Other",
+    "url": "https://jobs.ashbyhq.com/finary/069f2a6a-410c-4174-ada8-4caa7753d193",
+    "postedAt": "2026-10-21T15:57:44.539Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "ashby:kraken.com:0c61b28e-65c3-40dc-ac5a-ccdbb140f0be",
+    "company": "Kraken Digital Asset Exchange (“Kraken”)",
+    "licenceCountry": "IE",
+    "title": "Client Experience Specialist | Fixed-term",
+    "location": "Romania",
+    "remote": true,
+    "department": "Other",
+    "url": "https://jobs.ashbyhq.com/kraken.com/0c61b28e-65c3-40dc-ac5a-ccdbb140f0be",
+    "postedAt": "2026-10-21T13:40:37.586Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "lever:xtb:855df461-9378-4508-b18e-1a5896c2efee",
+    "company": "XTB Limited",
+    "licenceCountry": "CY",
+    "title": "Senior Infrastructure Engineer",
+    "location": "Warsaw, PL, remote",
+    "remote": true,
+    "department": "Engineering",
+    "url": "https://jobs.eu.lever.co/xtb/855df461-9378-4508-b18e-1a5896c2efee",
+    "postedAt": "2026-10-21T12:58:58.240Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156770800",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "(Senior) Kotlin / Java Software Engineer - Banking Payments (m/f/x)",
+    "location": "Berlin, BE, Germany",
+    "remote": false,
+    "department": "Engineering",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156770800",
+    "postedAt": "2026-10-21T10:53:37.544Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156770749",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "(Senior) Kotlin / Java Software Engineer - Banking Payments (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Engineering",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156770749",
+    "postedAt": "2026-10-21T10:51:54.030Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156756681",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Visual Designer (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Other",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156756681",
+    "postedAt": "2026-10-21T09:41:35.410Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156503599",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Internship - AI/ML Engineering (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Data",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156503599",
+    "postedAt": "2026-10-20T09:03:59.370Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156493644",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Internship - AI/ML Engineering (m/f/x)",
+    "location": "Berlin, BE, Germany",
+    "remote": false,
+    "department": "Data",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156493644",
+    "postedAt": "2026-10-20T08:40:41.872Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156370388",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Finance and Regulatory Reporting Intern/Working Student (Italian speaker) (m/f/x)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Compliance & Legal",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156370388",
+    "postedAt": "2026-10-19T16:06:22.092Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "smartrecruiters:ScalableGmbH:744000156328869",
+    "company": "Scalable Capital Bank GmbH",
+    "licenceCountry": "DE",
+    "title": "Werkstudent:in Legal (m/w/d)",
+    "location": "München, BY, Germany",
+    "remote": false,
+    "department": "Compliance & Legal",
+    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156328869",
+    "postedAt": "2026-10-19T13:47:21.120Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
     "id": "ashby:kraken.com:a6df5ed6-8dfc-460f-bc74-06129163e858",
     "company": "Kraken Digital Asset Exchange (“Kraken”)",
     "licenceCountry": "IE",
@@ -9,7 +213,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/a6df5ed6-8dfc-460f-bc74-06129163e858",
     "postedAt": "2026-10-16T19:40:07.002Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bitgo:8895178002",
@@ -21,19 +225,7 @@
     "department": "Operations",
     "url": "https://job-boards.greenhouse.io/bitgo/jobs/8895178002",
     "postedAt": "2026-10-16T17:55:48.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000156030669",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Finance and Regulatory Reporting Intern/Working Student (Italian speaker) (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Compliance & Legal",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000156030669",
-    "postedAt": "2026-10-16T15:18:28.062Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155991269",
@@ -45,19 +237,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155991269",
     "postedAt": "2026-10-16T12:55:37.258Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155989030",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Werkstudent:in Legal (m/w/d)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Compliance & Legal",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155989030",
-    "postedAt": "2026-10-16T12:51:54.722Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:keyrock:d21747c4-510c-4fd4-ade3-0c9cc1304e53",
@@ -69,7 +249,7 @@
     "department": "Data",
     "url": "https://jobs.ashbyhq.com/keyrock/d21747c4-510c-4fd4-ade3-0c9cc1304e53",
     "postedAt": "2026-10-15T16:08:23.041Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155754649",
@@ -81,7 +261,7 @@
     "department": "Finance",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155754649",
     "postedAt": "2026-10-15T12:57:43.316Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:a831f2fe-fd7f-4379-b7f9-bde67710b661",
@@ -93,7 +273,7 @@
     "department": "Compliance & Legal",
     "url": "https://jobs.ashbyhq.com/kraken.com/a831f2fe-fd7f-4379-b7f9-bde67710b661",
     "postedAt": "2026-10-15T11:59:43.962Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:finary:afcde663-47bf-4f16-8b60-317e024e4691",
@@ -105,7 +285,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/finary/afcde663-47bf-4f16-8b60-317e024e4691",
     "postedAt": "2026-10-15T09:51:44.218Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:confirmo:2784936",
@@ -117,7 +297,7 @@
     "department": "Compliance & Legal",
     "url": "https://confirmo.recruitee.com/o/group-dpo-and-security-compliance-officer",
     "postedAt": "2026-10-15T09:38:10.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155520700",
@@ -129,7 +309,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155520700",
     "postedAt": "2026-10-14T13:53:30.343Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155521680",
@@ -141,7 +321,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155521680",
     "postedAt": "2026-10-14T13:53:08.873Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155522399",
@@ -153,7 +333,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155522399",
     "postedAt": "2026-10-14T13:52:47.292Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155521220",
@@ -165,7 +345,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155521220",
     "postedAt": "2026-10-14T13:52:26.608Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155522179",
@@ -177,7 +357,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155522179",
     "postedAt": "2026-10-14T13:52:04.543Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155522109",
@@ -189,7 +369,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155522109",
     "postedAt": "2026-10-14T13:51:42.888Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155520770",
@@ -201,7 +381,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155520770",
     "postedAt": "2026-10-14T13:51:14.332Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155519614",
@@ -213,7 +393,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155519614",
     "postedAt": "2026-10-14T13:50:46.814Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155519670",
@@ -225,7 +405,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155519670",
     "postedAt": "2026-10-14T13:50:02.110Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155521379",
@@ -237,7 +417,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155521379",
     "postedAt": "2026-10-14T13:49:42.037Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:06a8b848-dbbd-40f6-b902-5d539894bc21",
@@ -249,19 +429,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/06a8b848-dbbd-40f6-b902-5d539894bc21",
     "postedAt": "2026-10-14T13:43:27.609Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155488249",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Visual Designer (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155488249",
-    "postedAt": "2026-10-14T11:41:46.433Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155481895",
@@ -273,43 +441,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155481895",
     "postedAt": "2026-10-14T11:23:40.066Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155475076",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "(Associate) Product Manager - Client Data & Onboarding (m/f/x)",
-    "location": "Berlin, BE, Germany",
-    "remote": false,
-    "department": "Product",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155475076",
-    "postedAt": "2026-10-14T10:50:57.663Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155477184",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "(Associate) Product Manager - Client Data & Onboarding (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Product",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155477184",
-    "postedAt": "2026-10-14T10:50:13.490Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155437889",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "People Analytics Manager (m/f/x)",
-    "location": "Berlin, BE, Germany",
-    "remote": false,
-    "department": "Data",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155437889",
-    "postedAt": "2026-10-14T08:19:32.106Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155437679",
@@ -321,7 +453,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155437679",
     "postedAt": "2026-10-14T08:18:11.539Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155437529",
@@ -333,19 +465,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155437529",
     "postedAt": "2026-10-14T08:17:30.967Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155437449",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "People Analytics Manager (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Data",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155437449",
-    "postedAt": "2026-10-14T08:17:07.180Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155429230",
@@ -357,7 +477,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155429230",
     "postedAt": "2026-10-14T07:38:29.289Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155428921",
@@ -369,19 +489,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155428921",
     "postedAt": "2026-10-14T07:37:38.046Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000155304585",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Working Student IT-Support (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Operations",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155304585",
-    "postedAt": "2026-10-13T15:53:49.106Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:b6240422-3024-41fd-a5e8-4cc1e0afa47d",
@@ -393,7 +501,7 @@
     "department": "Compliance & Legal",
     "url": "https://jobs.eu.lever.co/xtb/b6240422-3024-41fd-a5e8-4cc1e0afa47d",
     "postedAt": "2026-10-13T10:34:01.917Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:adf8faf4-bbaa-42d9-af90-d65b18eed659",
@@ -405,7 +513,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/adf8faf4-bbaa-42d9-af90-d65b18eed659",
     "postedAt": "2026-10-13T09:05:45.821Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155193819",
@@ -417,7 +525,7 @@
     "department": "Product",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155193819",
     "postedAt": "2026-10-13T08:22:07.351Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:f9ac5da0-35f5-4dc0-a16b-d6eb9d7bca49",
@@ -429,19 +537,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/f9ac5da0-35f5-4dc0-a16b-d6eb9d7bca49",
     "postedAt": "2026-10-13T07:53:33.887Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:kraken.com:3e3e2a44-5a96-4683-82d3-96162f312f78",
-    "company": "Kraken Digital Asset Exchange (“Kraken”)",
-    "licenceCountry": "IE",
-    "title": "Software Engineer - Growth Foundations",
-    "location": "Poland",
-    "remote": true,
-    "department": "Engineering",
-    "url": "https://jobs.ashbyhq.com/kraken.com/3e3e2a44-5a96-4683-82d3-96162f312f78",
-    "postedAt": "2026-10-12T16:19:43.210Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:5839dd05-7acb-41cf-9365-bc4f5137bcc5",
@@ -453,7 +549,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/5839dd05-7acb-41cf-9365-bc4f5137bcc5",
     "postedAt": "2026-10-12T15:11:02.280Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155021562",
@@ -465,7 +561,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155021562",
     "postedAt": "2026-10-12T13:38:22.990Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000155024151",
@@ -477,7 +573,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000155024151",
     "postedAt": "2026-10-12T13:37:46.203Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:4822303101",
@@ -489,7 +585,7 @@
     "department": "Other",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4822303101",
     "postedAt": "2026-10-12T13:35:17.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:f7f784f4-a4f4-4588-a720-e1dba6cb4755",
@@ -501,7 +597,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/f7f784f4-a4f4-4588-a720-e1dba6cb4755",
     "postedAt": "2026-10-12T13:25:22.222Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:8eeb8370-3897-4d35-947f-c6be4ca83a6e",
@@ -513,7 +609,7 @@
     "department": "Operations",
     "url": "https://jobs.eu.lever.co/xtb/8eeb8370-3897-4d35-947f-c6be4ca83a6e",
     "postedAt": "2026-10-12T12:11:27.990Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000154990414",
@@ -525,7 +621,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000154990414",
     "postedAt": "2026-10-12T11:36:56.543Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154934305",
@@ -537,7 +633,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154934305",
     "postedAt": "2026-10-12T07:08:20.334Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154735020",
@@ -549,7 +645,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154735020",
     "postedAt": "2026-10-09T16:36:38.607Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154737692",
@@ -561,7 +657,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154737692",
     "postedAt": "2026-10-09T16:36:17.402Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:5000663101",
@@ -573,7 +669,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000663101",
     "postedAt": "2026-10-09T13:18:48.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:1413fc03-3fa8-4c94-ada6-648c9eef63bd",
@@ -585,7 +681,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/kraken.com/1413fc03-3fa8-4c94-ada6-648c9eef63bd",
     "postedAt": "2026-10-09T11:43:11.279Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154631368",
@@ -597,7 +693,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154631368",
     "postedAt": "2026-10-09T09:36:43.583Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:5000000101",
@@ -609,7 +705,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000000101",
     "postedAt": "2026-10-09T08:23:15.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:5974c10f-2f07-4e37-8f9e-1f64ebe71f8f",
@@ -621,7 +717,7 @@
     "department": "Data",
     "url": "https://jobs.ashbyhq.com/solidgate/5974c10f-2f07-4e37-8f9e-1f64ebe71f8f",
     "postedAt": "2026-10-09T07:14:24.180Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154476669",
@@ -633,7 +729,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154476669",
     "postedAt": "2026-10-08T15:40:50.218Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:5000933101",
@@ -645,19 +741,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5000933101",
     "postedAt": "2026-10-08T14:45:52.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000154424309",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Werkstudent Brand & Campaign Management (m/w/d)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Marketing & Growth",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154424309",
-    "postedAt": "2026-10-08T12:21:54.831Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154421119",
@@ -669,7 +753,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154421119",
     "postedAt": "2026-10-08T12:07:39.339Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:7f25680a-9fd1-43f6-81de-3df1ac521137",
@@ -681,7 +765,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/7f25680a-9fd1-43f6-81de-3df1ac521137",
     "postedAt": "2026-10-08T09:18:27.955Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:7cf68627-a5f2-4f6b-b6a3-012c07fd7938",
@@ -693,7 +777,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/7cf68627-a5f2-4f6b-b6a3-012c07fd7938",
     "postedAt": "2026-10-07T21:27:57.514Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154136824",
@@ -705,19 +789,7 @@
     "department": "Finance",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154136824",
     "postedAt": "2026-10-07T15:19:10.825Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000154105139",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Head of Data (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154105139",
-    "postedAt": "2026-10-07T13:29:22.810Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:eb294eb0-c436-4ec9-a840-b5e422ef8f68",
@@ -729,7 +801,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/solidgate/eb294eb0-c436-4ec9-a840-b5e422ef8f68",
     "postedAt": "2026-10-07T13:15:48.807Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:4986330101",
@@ -741,7 +813,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4986330101",
     "postedAt": "2026-10-07T11:19:31.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000154053285",
@@ -753,7 +825,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000154053285",
     "postedAt": "2026-10-07T09:38:32.645Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000154041759",
@@ -765,7 +837,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000154041759",
     "postedAt": "2026-10-07T08:42:14.580Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:c6948e7c-1cc2-4c3d-be7f-84cb833e6536",
@@ -777,7 +849,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/c6948e7c-1cc2-4c3d-be7f-84cb833e6536",
     "postedAt": "2026-10-06T16:03:46.034Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:confirmo:2773347",
@@ -789,7 +861,7 @@
     "department": "Engineering",
     "url": "https://confirmo.recruitee.com/o/senior-it-systems-engineer",
     "postedAt": "2026-10-06T13:43:17.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:finary:35d2786d-fe46-420e-a4c5-f960129227a9",
@@ -801,7 +873,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/finary/35d2786d-fe46-420e-a4c5-f960129227a9",
     "postedAt": "2026-10-06T12:24:25.242Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153732559",
@@ -813,7 +885,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153732559",
     "postedAt": "2026-10-06T11:18:32.331Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:C6DB7D74A9",
@@ -825,7 +897,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/C6DB7D74A9",
     "postedAt": "2026-10-06T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:fee9fe46-f0d3-4b6e-8164-8a30ea769993",
@@ -837,7 +909,7 @@
     "department": "Sales & BD",
     "url": "https://jobs.eu.lever.co/xtb/fee9fe46-f0d3-4b6e-8164-8a30ea769993",
     "postedAt": "2026-10-05T22:31:53.642Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153498329",
@@ -849,7 +921,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153498329",
     "postedAt": "2026-10-05T13:02:11.249Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153498099",
@@ -861,7 +933,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153498099",
     "postedAt": "2026-10-05T13:01:34.597Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000153424390",
@@ -873,7 +945,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000153424390",
     "postedAt": "2026-10-05T08:05:22.513Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:8bcde807-1091-40c5-84bb-897d705736c4",
@@ -885,7 +957,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/8bcde807-1091-40c5-84bb-897d705736c4",
     "postedAt": "2026-10-05T07:00:31.663Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bitgo:8534706002",
@@ -897,7 +969,7 @@
     "department": "Sales & BD",
     "url": "https://job-boards.greenhouse.io/bitgo/jobs/8534706002",
     "postedAt": "2026-10-02T17:35:47.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bitgo:8534682002",
@@ -909,7 +981,7 @@
     "department": "Sales & BD",
     "url": "https://job-boards.greenhouse.io/bitgo/jobs/8534682002",
     "postedAt": "2026-10-02T17:35:47.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bitgo:8534695002",
@@ -921,7 +993,7 @@
     "department": "Sales & BD",
     "url": "https://job-boards.greenhouse.io/bitgo/jobs/8534695002",
     "postedAt": "2026-10-02T17:35:47.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2825891",
@@ -933,7 +1005,7 @@
     "department": "Compliance & Legal",
     "url": "https://vivid.jobs.personio.de/job/2825891",
     "postedAt": "2026-10-02T17:33:37.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153208169",
@@ -945,7 +1017,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153208169",
     "postedAt": "2026-10-02T14:49:52.209Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153129029",
@@ -957,7 +1029,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153129029",
     "postedAt": "2026-10-02T08:48:10.006Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153128889",
@@ -969,7 +1041,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153128889",
     "postedAt": "2026-10-02T08:47:44.252Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153122380",
@@ -981,7 +1053,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153122380",
     "postedAt": "2026-10-02T08:24:20.182Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153122939",
@@ -993,7 +1065,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153122939",
     "postedAt": "2026-10-02T08:22:47.638Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153122739",
@@ -1005,7 +1077,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153122739",
     "postedAt": "2026-10-02T08:22:19.493Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153119644",
@@ -1017,7 +1089,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153119644",
     "postedAt": "2026-10-02T08:21:40.848Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153107809",
@@ -1029,7 +1101,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153107809",
     "postedAt": "2026-10-02T07:15:37.844Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000153105719",
@@ -1041,7 +1113,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000153105719",
     "postedAt": "2026-10-02T07:00:34.078Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000152965440",
@@ -1053,7 +1125,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000152965440",
     "postedAt": "2026-10-01T14:56:51.441Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2823106",
@@ -1065,7 +1137,7 @@
     "department": "Engineering",
     "url": "https://smartbroker.jobs.personio.de/job/2823106",
     "postedAt": "2026-10-01T11:27:56.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000152857125",
@@ -1077,7 +1149,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000152857125",
     "postedAt": "2026-10-01T07:35:03.129Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000152839638",
@@ -1089,7 +1161,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000152839638",
     "postedAt": "2026-10-01T06:21:29.195Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:2c104ea2-349a-45c6-be9d-ee21ee8f7bd5",
@@ -1101,19 +1173,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/2c104ea2-349a-45c6-be9d-ee21ee8f7bd5",
     "postedAt": "2026-09-30T13:45:08.277Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "lever:xtb:61db2e8a-3106-4c08-8614-bd5b189e87e5",
-    "company": "XTB Limited",
-    "licenceCountry": "CY",
-    "title": "Junior Trader",
-    "location": "Warsaw, PL, hybrid",
-    "remote": false,
-    "department": "Other",
-    "url": "https://jobs.eu.lever.co/xtb/61db2e8a-3106-4c08-8614-bd5b189e87e5",
-    "postedAt": "2026-09-30T12:43:20.461Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000152646680",
@@ -1125,7 +1185,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000152646680",
     "postedAt": "2026-09-30T10:18:09.483Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000152646234",
@@ -1137,7 +1197,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000152646234",
     "postedAt": "2026-09-30T10:17:51.090Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:amdax:2656330",
@@ -1149,19 +1209,7 @@
     "department": "Other",
     "url": "https://werkenbij.amdax.com/o/senior-relationship-manager-digital-wealth",
     "postedAt": "2026-09-29T13:32:40.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000152166672",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "(Senior) Platform Engineer - Real-Time Infrastructure - Banking (m/f/x)",
-    "location": "Wien, Wien, Austria",
-    "remote": false,
-    "department": "Engineering",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000152166672",
-    "postedAt": "2026-09-28T12:50:11.261Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000151845490",
@@ -1173,31 +1221,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000151845490",
     "postedAt": "2026-09-25T12:54:14.582Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "personio:vivid:2814908",
-    "company": "Vivid Money B.V.",
-    "licenceCountry": "NL",
-    "title": "GTM Engineer (m/f/d)",
-    "location": "Berlin, Limassol Remote Barcelona",
-    "remote": true,
-    "department": "Engineering",
-    "url": "https://vivid.jobs.personio.de/job/2814908",
-    "postedAt": "2026-09-25T12:49:14.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:kraken.com:dc4019f3-d397-42db-9027-d31cb1547752",
-    "company": "Kraken Digital Asset Exchange (“Kraken”)",
-    "licenceCountry": "IE",
-    "title": "Head of Finance - Cyprus",
-    "location": "Cyprus",
-    "remote": true,
-    "department": "Finance",
-    "url": "https://jobs.ashbyhq.com/kraken.com/dc4019f3-d397-42db-9027-d31cb1547752",
-    "postedAt": "2026-09-25T12:37:31.078Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000151603199",
@@ -1209,7 +1233,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000151603199",
     "postedAt": "2026-09-24T12:13:41.562Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:4984120101",
@@ -1221,7 +1245,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4984120101",
     "postedAt": "2026-09-24T09:46:22.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:599813E1DD",
@@ -1233,7 +1257,7 @@
     "department": "Operations",
     "url": "https://apply.workable.com/j/599813E1DD",
     "postedAt": "2026-09-24T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:strike:6206297004",
@@ -1245,7 +1269,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.greenhouse.io/strike/jobs/6206297004",
     "postedAt": "2026-09-23T15:16:28.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:4983682101",
@@ -1257,31 +1281,19 @@
     "department": "Other",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4983682101",
     "postedAt": "2026-09-23T14:46:59.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:914215ad-41ff-4a07-9794-79ec02a15b74",
     "company": "XTB Limited",
     "licenceCountry": "CY",
-    "title": "Data Engineer (Tax Care)",
+    "title": "Data Engineer",
     "location": "Warsaw, PL, remote",
     "remote": true,
     "department": "Data",
     "url": "https://jobs.eu.lever.co/xtb/914215ad-41ff-4a07-9794-79ec02a15b74",
     "postedAt": "2026-09-23T10:32:56.898Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "lever:xtb:30e763ea-0ab5-44a8-af02-98b71d71856c",
-    "company": "XTB Limited",
-    "licenceCountry": "CY",
-    "title": "Junior Customer Support with Spanish and English",
-    "location": "Warsaw, PL, hybrid",
-    "remote": false,
-    "department": "Operations",
-    "url": "https://jobs.eu.lever.co/xtb/30e763ea-0ab5-44a8-af02-98b71d71856c",
-    "postedAt": "2026-09-23T07:57:11.913Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:B3C8D7271F",
@@ -1293,19 +1305,7 @@
     "department": "Operations",
     "url": "https://apply.workable.com/j/B3C8D7271F",
     "postedAt": "2026-09-23T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:kraken.com:4c6e1cb1-b9b4-4263-897f-830b09b593ae",
-    "company": "Kraken Digital Asset Exchange (“Kraken”)",
-    "licenceCountry": "IE",
-    "title": "Senior Software Engineer - React Native - Business Services",
-    "location": "Poland",
-    "remote": true,
-    "department": "Engineering",
-    "url": "https://jobs.ashbyhq.com/kraken.com/4c6e1cb1-b9b4-4263-897f-830b09b593ae",
-    "postedAt": "2026-09-22T15:26:17.356Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000151071059",
@@ -1317,31 +1317,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000151071059",
     "postedAt": "2026-09-22T15:22:22.961Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000150981389",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Werkstudent Client Service Management (m/w/d)",
-    "location": "Berlin, BE, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000150981389",
-    "postedAt": "2026-09-22T09:41:35.385Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000150981100",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Werkstudent Client Service Management (m/w/d)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000150981100",
-    "postedAt": "2026-09-22T09:41:04.593Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2806820",
@@ -1353,7 +1329,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2806820",
     "postedAt": "2026-09-22T00:32:29.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:9334BA9C16",
@@ -1365,7 +1341,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/9334BA9C16",
     "postedAt": "2026-09-22T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:C7BCB883FD",
@@ -1377,7 +1353,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/C7BCB883FD",
     "postedAt": "2026-09-22T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:5D5A8C4E1B",
@@ -1389,7 +1365,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/5D5A8C4E1B",
     "postedAt": "2026-09-22T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000150682795",
@@ -1401,7 +1377,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000150682795",
     "postedAt": "2026-09-21T12:38:43.043Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000150684969",
@@ -1413,7 +1389,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000150684969",
     "postedAt": "2026-09-21T12:37:45.425Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:amdax:2665662",
@@ -1425,7 +1401,7 @@
     "department": "Compliance & Legal",
     "url": "https://werkenbij.amdax.com/o/senior-kyc-analist-1",
     "postedAt": "2026-09-21T12:26:58.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000150643479",
@@ -1437,7 +1413,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000150643479",
     "postedAt": "2026-09-21T09:25:39.322Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:fb3139f2-9b13-4015-891c-37ca713c750f",
@@ -1449,7 +1425,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/fb3139f2-9b13-4015-891c-37ca713c750f",
     "postedAt": "2026-09-18T17:01:09.434Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
@@ -1461,31 +1437,19 @@
     "department": "Data",
     "url": "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
     "postedAt": "2026-09-17T14:32:59.900Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:7db389b6-4ba3-48e5-92ed-65edc8a821cf",
     "company": "XTB Limited",
     "licenceCountry": "CY",
-    "title": "Head Capital Adequacy and Risk Management",
+    "title": "Head of Capital Adequacy and Financial Risk",
     "location": "Warsaw, PL, hybrid",
     "remote": false,
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/7db389b6-4ba3-48e5-92ed-65edc8a821cf",
     "postedAt": "2026-09-17T10:45:07.426Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "workable:zodia-custody:E7B52E469A",
-    "company": "Zodia",
-    "licenceCountry": "LU",
-    "title": "Financial Crime Prevention Lead - Luxembourg",
-    "location": "Luxembourg",
-    "remote": false,
-    "department": "Compliance & Legal",
-    "url": "https://apply.workable.com/j/E7B52E469A",
-    "postedAt": "2026-09-16T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:b2a32764-7b75-4c6d-a45a-58b7af0887ad",
@@ -1497,7 +1461,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/b2a32764-7b75-4c6d-a45a-58b7af0887ad",
     "postedAt": "2026-09-15T17:40:24.104Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:9d32b3a2-7067-46b8-bb0e-6232d2d9a068",
@@ -1509,7 +1473,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/kraken.com/9d32b3a2-7067-46b8-bb0e-6232d2d9a068",
     "postedAt": "2026-09-15T11:07:50.976Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000149285874",
@@ -1521,7 +1485,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000149285874",
     "postedAt": "2026-09-14T09:48:56.467Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000149287089",
@@ -1533,43 +1497,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000149287089",
     "postedAt": "2026-09-14T09:48:29.855Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000148970139",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Senior Security Incident Response Analyst (m/f/x)",
-    "location": "München, BY, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000148970139",
-    "postedAt": "2026-09-11T09:25:41.860Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "smartrecruiters:ScalableGmbH:744000148969939",
-    "company": "Scalable Capital Bank GmbH",
-    "licenceCountry": "DE",
-    "title": "Senior Security Incident Response Analyst (m/f/x)",
-    "location": "Berlin, BE, Germany",
-    "remote": false,
-    "department": "Other",
-    "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000148969939",
-    "postedAt": "2026-09-11T09:25:22.437Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:finary:9fe163e0-83d2-45d8-a7e6-18b41206249c",
-    "company": "FINARY",
-    "licenceCountry": "FR",
-    "title": "Operations Lead",
-    "location": "Paris, Ile de France, France",
-    "remote": false,
-    "department": "Operations",
-    "url": "https://jobs.ashbyhq.com/finary/9fe163e0-83d2-45d8-a7e6-18b41206249c",
-    "postedAt": "2026-09-10T13:53:55.230Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000148717179",
@@ -1581,7 +1509,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000148717179",
     "postedAt": "2026-09-10T09:15:55.068Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:confirmo:1766092",
@@ -1593,19 +1521,7 @@
     "department": "Engineering",
     "url": "https://confirmo.recruitee.com/o/java-developer",
     "postedAt": "2026-09-10T06:10:18.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "lever:xtb:8d7737ac-210e-495e-8e30-cfe46dbd82fa",
-    "company": "XTB Limited",
-    "licenceCountry": "CY",
-    "title": "PT Account Manager",
-    "location": "Lisboa, PT, hybrid",
-    "remote": false,
-    "department": "Sales & BD",
-    "url": "https://jobs.eu.lever.co/xtb/8d7737ac-210e-495e-8e30-cfe46dbd82fa",
-    "postedAt": "2026-09-09T16:53:35.501Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:5d0f0d0a-5b12-43d7-a609-cd34b53922e3",
@@ -1617,7 +1533,7 @@
     "department": "Data",
     "url": "https://jobs.eu.lever.co/xtb/5d0f0d0a-5b12-43d7-a609-cd34b53922e3",
     "postedAt": "2026-09-09T11:40:35.348Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2786695",
@@ -1629,7 +1545,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2786695",
     "postedAt": "2026-09-08T14:48:07.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2786658",
@@ -1641,7 +1557,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2786658",
     "postedAt": "2026-09-08T14:31:12.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:9618f621-371a-4b47-bca7-c6fc37088404",
@@ -1653,7 +1569,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/9618f621-371a-4b47-bca7-c6fc37088404",
     "postedAt": "2026-09-08T09:57:30.121Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:amdax:2737275",
@@ -1665,7 +1581,7 @@
     "department": "Other",
     "url": "https://werkenbij.amdax.com/o/senior-risk-manager-for-crypto-asset-service-provider-1",
     "postedAt": "2026-09-07T14:00:22.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:fe75146c-588e-43f6-8292-a1d608c6a5a7",
@@ -1677,7 +1593,7 @@
     "department": "Operations",
     "url": "https://jobs.eu.lever.co/xtb/fe75146c-588e-43f6-8292-a1d608c6a5a7",
     "postedAt": "2026-09-04T17:38:32.996Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:e1ffacc0-2fd2-40ca-96a8-b485d3735fa2",
@@ -1689,7 +1605,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/e1ffacc0-2fd2-40ca-96a8-b485d3735fa2",
     "postedAt": "2026-09-04T10:26:28.031Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2781846",
@@ -1701,7 +1617,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2781846",
     "postedAt": "2026-09-04T10:11:16.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2781825",
@@ -1713,7 +1629,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2781825",
     "postedAt": "2026-09-04T10:06:21.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:e12d097e-70f1-42aa-bdd7-93d25b02e5e5",
@@ -1725,7 +1641,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/e12d097e-70f1-42aa-bdd7-93d25b02e5e5",
     "postedAt": "2026-09-04T09:11:44.928Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2781397",
@@ -1737,7 +1653,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2781397",
     "postedAt": "2026-09-03T19:44:49.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2781380",
@@ -1749,7 +1665,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2781380",
     "postedAt": "2026-09-03T19:15:48.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000147203199",
@@ -1761,7 +1677,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000147203199",
     "postedAt": "2026-09-03T09:35:55.282Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000147200041",
@@ -1773,7 +1689,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000147200041",
     "postedAt": "2026-09-03T09:35:37.348Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000147197319",
@@ -1785,7 +1701,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000147197319",
     "postedAt": "2026-09-03T09:09:39.861Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000146964149",
@@ -1797,7 +1713,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000146964149",
     "postedAt": "2026-09-02T11:37:02.530Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:1CE5B71362",
@@ -1809,7 +1725,7 @@
     "department": "Operations",
     "url": "https://apply.workable.com/j/1CE5B71362",
     "postedAt": "2026-09-02T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:AF0BB0BE2F",
@@ -1821,7 +1737,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/AF0BB0BE2F",
     "postedAt": "2026-09-02T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000146696900",
@@ -1833,7 +1749,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000146696900",
     "postedAt": "2026-09-01T12:17:11.305Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:c6a90178-82d7-414e-ad74-69496b44d3c4",
@@ -1845,7 +1761,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/c6a90178-82d7-414e-ad74-69496b44d3c4",
     "postedAt": "2026-08-31T13:59:54.702Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2774291",
@@ -1857,7 +1773,7 @@
     "department": "Product",
     "url": "https://smartbroker.jobs.personio.de/job/2774291",
     "postedAt": "2026-08-31T10:51:17.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:finary:bc11ef25-b1ee-4cc6-b4f1-acc7e6fef252",
@@ -1869,7 +1785,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/finary/bc11ef25-b1ee-4cc6-b4f1-acc7e6fef252",
     "postedAt": "2026-08-31T10:22:22.933Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:c0d90cde-96ab-455a-b613-16b2f395e683",
@@ -1881,7 +1797,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/c0d90cde-96ab-455a-b613-16b2f395e683",
     "postedAt": "2026-08-31T04:32:29.043Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:34f7cd29-0e91-4f9e-8e3b-82ad581fb454",
@@ -1893,7 +1809,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/34f7cd29-0e91-4f9e-8e3b-82ad581fb454",
     "postedAt": "2026-08-28T13:17:55.586Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000146123649",
@@ -1905,19 +1821,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000146123649",
     "postedAt": "2026-08-28T07:00:09.073Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:kraken.com:acf80ca2-7073-49aa-ab4a-7064f852d94f",
-    "company": "Kraken Digital Asset Exchange (“Kraken”)",
-    "licenceCountry": "IE",
-    "title": "Senior Software Engineer - Frontend - Consumer",
-    "location": "Poland",
-    "remote": true,
-    "department": "Engineering",
-    "url": "https://jobs.ashbyhq.com/kraken.com/acf80ca2-7073-49aa-ab4a-7064f852d94f",
-    "postedAt": "2026-08-26T09:10:31.993Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:moonpay:2ea0b7ba-75a0-43e1-a80a-c561d8c74c5e",
@@ -1929,19 +1833,7 @@
     "department": "Engineering",
     "url": "https://jobs.lever.co/moonpay/2ea0b7ba-75a0-43e1-a80a-c561d8c74c5e",
     "postedAt": "2026-08-25T15:08:49.001Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
-  },
-  {
-    "id": "ashby:finary:00abd22f-6a82-4962-8f91-757db6a6fc9c",
-    "company": "FINARY",
-    "licenceCountry": "FR",
-    "title": "Stage - monteur vidéo",
-    "location": "Paris, Ile de France, France",
-    "remote": false,
-    "department": "Other",
-    "url": "https://jobs.ashbyhq.com/finary/00abd22f-6a82-4962-8f91-757db6a6fc9c",
-    "postedAt": "2026-08-25T12:19:40.743Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000144733779",
@@ -1953,7 +1845,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000144733779",
     "postedAt": "2026-08-21T10:17:04.020Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000144472539",
@@ -1965,7 +1857,7 @@
     "department": "Operations",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000144472539",
     "postedAt": "2026-08-20T07:15:59.346Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:finary:cf1e1984-1d88-4c5d-840f-09ac8aa31b09",
@@ -1977,7 +1869,7 @@
     "department": "Marketing & Growth",
     "url": "https://jobs.ashbyhq.com/finary/cf1e1984-1d88-4c5d-840f-09ac8aa31b09",
     "postedAt": "2026-08-20T07:13:23.765Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2760618",
@@ -1989,7 +1881,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2760618",
     "postedAt": "2026-08-19T18:34:46.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000144300694",
@@ -2001,7 +1893,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000144300694",
     "postedAt": "2026-08-19T12:18:13.828Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:7f60ba9f-2802-4035-ae06-258a5f6d727b",
@@ -2013,7 +1905,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/7f60ba9f-2802-4035-ae06-258a5f6d727b",
     "postedAt": "2026-08-18T07:03:15.016Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:4075F3B0C6",
@@ -2025,7 +1917,7 @@
     "department": "Operations",
     "url": "https://apply.workable.com/j/4075F3B0C6",
     "postedAt": "2026-08-18T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2757412",
@@ -2037,7 +1929,7 @@
     "department": "Marketing & Growth",
     "url": "https://vivid.jobs.personio.de/job/2757412",
     "postedAt": "2026-08-17T16:21:51.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:225b6d52-ada7-423c-bc60-f4445071e260",
@@ -2049,7 +1941,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/225b6d52-ada7-423c-bc60-f4445071e260",
     "postedAt": "2026-08-17T15:12:21.326Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:28ff0d8a-72ce-4a4e-9cef-48d735f2b516",
@@ -2061,7 +1953,7 @@
     "department": "Product",
     "url": "https://jobs.eu.lever.co/xtb/28ff0d8a-72ce-4a4e-9cef-48d735f2b516",
     "postedAt": "2026-08-17T13:31:12.464Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000143536869",
@@ -2073,7 +1965,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000143536869",
     "postedAt": "2026-08-14T14:45:46.238Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000143522634",
@@ -2085,7 +1977,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000143522634",
     "postedAt": "2026-08-14T13:49:48.270Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000143522339",
@@ -2097,7 +1989,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000143522339",
     "postedAt": "2026-08-14T13:45:59.965Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000143521554",
@@ -2109,7 +2001,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000143521554",
     "postedAt": "2026-08-14T13:45:44.429Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:strike:4015660004",
@@ -2121,7 +2013,7 @@
     "department": "Engineering",
     "url": "https://job-boards.greenhouse.io/strike/jobs/4015660004",
     "postedAt": "2026-08-14T09:03:13.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000143440719",
@@ -2133,7 +2025,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000143440719",
     "postedAt": "2026-08-14T05:39:46.106Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:confirmo:2707661",
@@ -2145,7 +2037,7 @@
     "department": "Sales & BD",
     "url": "https://confirmo.recruitee.com/o/account-executive-1",
     "postedAt": "2026-08-12T06:57:13.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2749478",
@@ -2157,7 +2049,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2749478",
     "postedAt": "2026-08-11T10:12:37.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:keyrock:e0cbd0a8-7acf-4513-9f0b-1536624babc6",
@@ -2169,7 +2061,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/keyrock/e0cbd0a8-7acf-4513-9f0b-1536624babc6",
     "postedAt": "2026-08-10T22:36:17.809Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:bvnk:4902282101",
@@ -2181,7 +2073,7 @@
     "department": "Compliance & Legal",
     "url": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4902282101",
     "postedAt": "2026-08-10T10:25:56.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2747261",
@@ -2193,7 +2085,7 @@
     "department": "Other",
     "url": "https://smartbroker.jobs.personio.de/job/2747261",
     "postedAt": "2026-08-10T08:24:31.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000141898931",
@@ -2205,7 +2097,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000141898931",
     "postedAt": "2026-08-06T11:33:50.845Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000141680580",
@@ -2217,7 +2109,19 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000141680580",
     "postedAt": "2026-08-05T09:58:27.938Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "lever:xtb:71636a27-e442-4612-aa9f-165be999517f",
+    "company": "XTB Limited",
+    "licenceCountry": "CY",
+    "title": "Senior Java Software Engineer",
+    "location": "Warsaw, PL, remote",
+    "remote": true,
+    "department": "Engineering",
+    "url": "https://jobs.eu.lever.co/xtb/71636a27-e442-4612-aa9f-165be999517f",
+    "postedAt": "2026-08-04T12:26:52.446Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2740249",
@@ -2229,7 +2133,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2740249",
     "postedAt": "2026-08-04T11:06:55.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140466469",
@@ -2241,7 +2145,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140466469",
     "postedAt": "2026-07-29T13:22:47.834Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140462709",
@@ -2253,7 +2157,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140462709",
     "postedAt": "2026-07-29T13:07:57.095Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140460262",
@@ -2265,7 +2169,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140460262",
     "postedAt": "2026-07-29T13:02:12.391Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140461409",
@@ -2277,7 +2181,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140461409",
     "postedAt": "2026-07-29T13:01:48.045Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140457923",
@@ -2289,7 +2193,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140457923",
     "postedAt": "2026-07-29T12:58:04.874Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140453361",
@@ -2301,7 +2205,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140453361",
     "postedAt": "2026-07-29T12:40:29.876Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140452814",
@@ -2313,7 +2217,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140452814",
     "postedAt": "2026-07-29T12:40:07.814Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140450809",
@@ -2325,7 +2229,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140450809",
     "postedAt": "2026-07-29T12:18:20.232Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140450392",
@@ -2337,7 +2241,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140450392",
     "postedAt": "2026-07-29T12:17:58.488Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140446795",
@@ -2349,7 +2253,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140446795",
     "postedAt": "2026-07-29T12:08:00.870Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140447982",
@@ -2361,7 +2265,7 @@
     "department": "Compliance & Legal",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140447982",
     "postedAt": "2026-07-29T12:07:40.088Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140447119",
@@ -2373,7 +2277,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140447119",
     "postedAt": "2026-07-29T12:01:32.336Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140446900",
@@ -2385,7 +2289,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140446900",
     "postedAt": "2026-07-29T12:01:03.588Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140445154",
@@ -2397,7 +2301,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140445154",
     "postedAt": "2026-07-29T11:59:09.847Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140444655",
@@ -2409,7 +2313,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140444655",
     "postedAt": "2026-07-29T11:58:45.026Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140445239",
@@ -2421,7 +2325,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140445239",
     "postedAt": "2026-07-29T11:53:47.877Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140444930",
@@ -2433,7 +2337,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140444930",
     "postedAt": "2026-07-29T11:53:15.609Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140444669",
@@ -2445,7 +2349,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140444669",
     "postedAt": "2026-07-29T11:51:32.721Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140443889",
@@ -2457,7 +2361,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140443889",
     "postedAt": "2026-07-29T11:48:06.474Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140443464",
@@ -2469,7 +2373,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140443464",
     "postedAt": "2026-07-29T11:46:57.867Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140438374",
@@ -2481,7 +2385,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140438374",
     "postedAt": "2026-07-29T11:18:34.402Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140433134",
@@ -2493,7 +2397,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140433134",
     "postedAt": "2026-07-29T10:31:12.242Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140433159",
@@ -2505,7 +2409,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140433159",
     "postedAt": "2026-07-29T10:30:48.816Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140422079",
@@ -2517,7 +2421,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140422079",
     "postedAt": "2026-07-29T09:26:22.325Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140421969",
@@ -2529,7 +2433,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140421969",
     "postedAt": "2026-07-29T09:25:57.123Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140421809",
@@ -2541,7 +2445,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140421809",
     "postedAt": "2026-07-29T09:25:23.481Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140418043",
@@ -2553,7 +2457,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140418043",
     "postedAt": "2026-07-29T09:17:15.152Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000140418064",
@@ -2565,7 +2469,7 @@
     "department": "Engineering",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000140418064",
     "postedAt": "2026-07-29T09:16:53.002Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:463a924c-3bef-4915-a544-fb733ca94b67",
@@ -2577,7 +2481,7 @@
     "department": "Operations",
     "url": "https://jobs.eu.lever.co/xtb/463a924c-3bef-4915-a544-fb733ca94b67",
     "postedAt": "2026-07-28T10:57:58.010Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000139253380",
@@ -2589,7 +2493,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000139253380",
     "postedAt": "2026-07-23T10:23:11.937Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:474E6BD4D1",
@@ -2601,7 +2505,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/474E6BD4D1",
     "postedAt": "2026-07-23T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000138624380",
@@ -2613,7 +2517,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000138624380",
     "postedAt": "2026-07-20T12:22:09.537Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:8cd47f8c-942e-436f-a1f4-c6173ee865e4",
@@ -2625,7 +2529,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/solidgate/8cd47f8c-942e-436f-a1f4-c6173ee865e4",
     "postedAt": "2026-07-15T16:23:47.106Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:keyrock:7329eacf-83d2-419c-b519-8288659bf71b",
@@ -2637,7 +2541,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/keyrock/7329eacf-83d2-419c-b519-8288659bf71b",
     "postedAt": "2026-07-15T14:27:45.882Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:2713602",
@@ -2649,7 +2553,7 @@
     "department": "Sales & BD",
     "url": "https://360t.jobs.personio.de/job/2713602",
     "postedAt": "2026-07-15T12:55:34.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:29a0960e-448c-4e23-9b60-6c6870619653",
@@ -2661,7 +2565,7 @@
     "department": "Operations",
     "url": "https://jobs.eu.lever.co/xtb/29a0960e-448c-4e23-9b60-6c6870619653",
     "postedAt": "2026-07-15T07:47:45.079Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:kraken.com:d6d4cda0-81c5-4b88-9af5-f3bc1d48e1bc",
@@ -2673,7 +2577,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/kraken.com/d6d4cda0-81c5-4b88-9af5-f3bc1d48e1bc",
     "postedAt": "2026-07-13T16:24:10.624Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2707648",
@@ -2685,7 +2589,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2707648",
     "postedAt": "2026-07-10T10:27:33.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:ScalableGmbH:744000136237720",
@@ -2697,7 +2601,7 @@
     "department": "Data",
     "url": "https://api.smartrecruiters.com/v1/companies/ScalableGmbH/postings/744000136237720",
     "postedAt": "2026-07-07T13:44:32.863Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:c8207130-e683-411c-ada6-02a7fb8c2250",
@@ -2709,7 +2613,7 @@
     "department": "Sales & BD",
     "url": "https://jobs.ashbyhq.com/solidgate/c8207130-e683-411c-ada6-02a7fb8c2250",
     "postedAt": "2026-07-07T09:06:47.851Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2696517",
@@ -2721,7 +2625,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2696517",
     "postedAt": "2026-07-02T15:16:41.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2695880",
@@ -2733,7 +2637,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2695880",
     "postedAt": "2026-07-02T11:26:11.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:78d9fff8-d7b1-4788-b295-02a5e8f64869",
@@ -2745,7 +2649,7 @@
     "department": "Engineering",
     "url": "https://jobs.eu.lever.co/xtb/78d9fff8-d7b1-4788-b295-02a5e8f64869",
     "postedAt": "2026-07-02T09:07:06.198Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "lever:xtb:66487079-9cea-4a80-b1c2-e92016c99bf3",
@@ -2757,7 +2661,7 @@
     "department": "Other",
     "url": "https://jobs.eu.lever.co/xtb/66487079-9cea-4a80-b1c2-e92016c99bf3",
     "postedAt": "2026-06-26T15:23:11.250Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:1a511e4c-229b-4982-8d57-2b8746624688",
@@ -2769,7 +2673,7 @@
     "department": "Sales & BD",
     "url": "https://jobs.ashbyhq.com/solidgate/1a511e4c-229b-4982-8d57-2b8746624688",
     "postedAt": "2026-06-23T16:01:59.524Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:2028398FC2",
@@ -2781,7 +2685,7 @@
     "department": "Marketing & Growth",
     "url": "https://apply.workable.com/j/2028398FC2",
     "postedAt": "2026-06-16T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2659864",
@@ -2793,7 +2697,7 @@
     "department": "Sales & BD",
     "url": "https://vivid.jobs.personio.de/job/2659864",
     "postedAt": "2026-06-05T18:00:08.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:finary:4f2e316a-5f84-4514-bcbe-55a8d5daf045",
@@ -2805,7 +2709,7 @@
     "department": "Other",
     "url": "https://jobs.ashbyhq.com/finary/4f2e316a-5f84-4514-bcbe-55a8d5daf045",
     "postedAt": "2026-05-27T14:40:33.208Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:strike:4003945004",
@@ -2817,7 +2721,19 @@
     "department": "Engineering",
     "url": "https://job-boards.greenhouse.io/strike/jobs/4003945004",
     "postedAt": "2026-05-19T09:47:54.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "greenhouse:moonpay:cf5f8963-d2f2-4a1d-9f82-acbcdbd19a92",
+    "company": "MoonPay Europe B.V.",
+    "licenceCountry": "NL",
+    "title": "Chief Auditor",
+    "location": "Florida, US, remote",
+    "remote": true,
+    "department": "Other",
+    "url": "https://jobs.lever.co/moonpay/cf5f8963-d2f2-4a1d-9f82-acbcdbd19a92",
+    "postedAt": "2026-05-14T04:37:54.596Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:caeffe8f-70b6-4c07-ab12-a576a104d789",
@@ -2829,7 +2745,7 @@
     "department": "Marketing & Growth",
     "url": "https://jobs.ashbyhq.com/solidgate/caeffe8f-70b6-4c07-ab12-a576a104d789",
     "postedAt": "2026-05-13T13:33:59.561Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "recruitee:confirmo:2568200",
@@ -2841,7 +2757,7 @@
     "department": "Sales & BD",
     "url": "https://confirmo.recruitee.com/o/account-executive",
     "postedAt": "2026-04-16T06:49:27.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:7EC629B0C9",
@@ -2853,7 +2769,7 @@
     "department": "Operations",
     "url": "https://apply.workable.com/j/7EC629B0C9",
     "postedAt": "2026-04-15T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:b0e39f29-7a7a-4553-800c-13df65b19373",
@@ -2865,7 +2781,7 @@
     "department": "Operations",
     "url": "https://jobs.ashbyhq.com/solidgate/b0e39f29-7a7a-4553-800c-13df65b19373",
     "postedAt": "2026-04-07T14:24:04.202Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:0E0BE17921",
@@ -2877,7 +2793,7 @@
     "department": "Other",
     "url": "https://apply.workable.com/j/0E0BE17921",
     "postedAt": "2026-04-07T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:FB8B40E55C",
@@ -2889,7 +2805,7 @@
     "department": "Finance",
     "url": "https://apply.workable.com/j/FB8B40E55C",
     "postedAt": "2026-04-07T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2573058",
@@ -2901,7 +2817,7 @@
     "department": "Compliance & Legal",
     "url": "https://vivid.jobs.personio.de/job/2573058",
     "postedAt": "2026-03-23T10:09:52.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:9fc12a5b-c1e9-406f-89dc-ff795eed988d",
@@ -2913,7 +2829,7 @@
     "department": "Sales & BD",
     "url": "https://jobs.ashbyhq.com/solidgate/9fc12a5b-c1e9-406f-89dc-ff795eed988d",
     "postedAt": "2026-03-11T16:27:24.156Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:2510209",
@@ -2925,7 +2841,7 @@
     "department": "Compliance & Legal",
     "url": "https://360t.jobs.personio.de/job/2510209",
     "postedAt": "2026-01-28T10:33:57.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "smartrecruiters:Swissquote:744000105890693",
@@ -2937,7 +2853,7 @@
     "department": "Other",
     "url": "https://api.smartrecruiters.com/v1/companies/Swissquote/postings/744000105890693",
     "postedAt": "2026-01-27T16:09:31.613Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:27bd50e1-8161-4e53-bb08-94508d3004f6",
@@ -2949,7 +2865,7 @@
     "department": "Engineering",
     "url": "https://jobs.ashbyhq.com/solidgate/27bd50e1-8161-4e53-bb08-94508d3004f6",
     "postedAt": "2026-01-21T12:25:25.473Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "workable:deblock:EC8FB40B65",
@@ -2961,7 +2877,7 @@
     "department": "Compliance & Legal",
     "url": "https://apply.workable.com/j/EC8FB40B65",
     "postedAt": "2026-01-13T00:00:00.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "ashby:solidgate:f9d5db83-c5b5-4e95-bf29-68eb13a2431d",
@@ -2973,7 +2889,7 @@
     "department": "Sales & BD",
     "url": "https://jobs.ashbyhq.com/solidgate/f9d5db83-c5b5-4e95-bf29-68eb13a2431d",
     "postedAt": "2026-01-08T17:32:56.462Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2463351",
@@ -2985,7 +2901,7 @@
     "department": "Data",
     "url": "https://smartbroker.jobs.personio.de/job/2463351",
     "postedAt": "2025-12-16T11:42:49.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2452785",
@@ -2997,7 +2913,7 @@
     "department": "Compliance & Legal",
     "url": "https://vivid.jobs.personio.de/job/2452785",
     "postedAt": "2025-12-05T21:17:25.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2442134",
@@ -3009,7 +2925,7 @@
     "department": "Other",
     "url": "https://smartbroker.jobs.personio.de/job/2442134",
     "postedAt": "2025-11-27T12:18:37.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:vivid:2384047",
@@ -3021,7 +2937,7 @@
     "department": "Other",
     "url": "https://vivid.jobs.personio.de/job/2384047",
     "postedAt": "2025-10-13T16:49:40.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:2073623",
@@ -3033,7 +2949,7 @@
     "department": "Engineering",
     "url": "https://smartbroker.jobs.personio.de/job/2073623",
     "postedAt": "2025-04-28T15:51:27.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "greenhouse:strike:4791315004",
@@ -3045,7 +2961,7 @@
     "department": "Other",
     "url": "https://job-boards.greenhouse.io/strike/jobs/4791315004",
     "postedAt": "2025-04-01T11:43:41.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1967315",
@@ -3057,7 +2973,7 @@
     "department": "Engineering",
     "url": "https://360t.jobs.personio.de/job/1967315",
     "postedAt": "2025-02-13T09:27:11.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:1925490",
@@ -3069,7 +2985,7 @@
     "department": "Other",
     "url": "https://smartbroker.jobs.personio.de/job/1925490",
     "postedAt": "2025-01-21T08:48:49.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1825940",
@@ -3081,7 +2997,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/1825940",
     "postedAt": "2024-11-07T12:08:32.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1605452",
@@ -3093,7 +3009,7 @@
     "department": "Finance",
     "url": "https://360t.jobs.personio.de/job/1605452",
     "postedAt": "2024-06-18T22:57:29.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1347744",
@@ -3105,7 +3021,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/1347744",
     "postedAt": "2023-12-04T17:26:06.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1289877",
@@ -3117,7 +3033,7 @@
     "department": "Operations",
     "url": "https://360t.jobs.personio.de/job/1289877",
     "postedAt": "2023-10-16T14:54:33.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:1259155",
@@ -3129,7 +3045,7 @@
     "department": "Engineering",
     "url": "https://smartbroker.jobs.personio.de/job/1259155",
     "postedAt": "2023-09-19T12:26:04.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:1060645",
@@ -3141,7 +3057,7 @@
     "department": "Compliance & Legal",
     "url": "https://360t.jobs.personio.de/job/1060645",
     "postedAt": "2023-03-23T14:19:34.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:717357",
@@ -3153,7 +3069,7 @@
     "department": "Compliance & Legal",
     "url": "https://360t.jobs.personio.de/job/717357",
     "postedAt": "2022-06-13T17:49:09.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:617276",
@@ -3165,7 +3081,7 @@
     "department": "Engineering",
     "url": "https://360t.jobs.personio.de/job/617276",
     "postedAt": "2022-03-09T10:57:32.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:603207",
@@ -3177,7 +3093,7 @@
     "department": "Marketing & Growth",
     "url": "https://360t.jobs.personio.de/job/603207",
     "postedAt": "2022-02-23T11:41:15.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:491719",
@@ -3189,7 +3105,7 @@
     "department": "Engineering",
     "url": "https://smartbroker.jobs.personio.de/job/491719",
     "postedAt": "2021-10-28T09:20:57.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:476957",
@@ -3201,7 +3117,19 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/476957",
     "postedAt": "2021-10-14T12:10:18.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
+  },
+  {
+    "id": "personio:360t:453479",
+    "company": "360 Treasury Systems AG",
+    "licenceCountry": "DE",
+    "title": "WORKING STUDENT PEOPLE &amp; OPERATIONS (f/m/d)",
+    "location": "Frankfurt am Main",
+    "remote": false,
+    "department": "Operations",
+    "url": "https://360t.jobs.personio.de/job/453479",
+    "postedAt": "2021-09-17T16:32:35.000Z",
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:363311",
@@ -3213,7 +3141,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/363311",
     "postedAt": "2021-04-30T17:16:59.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:363295",
@@ -3225,7 +3153,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/363295",
     "postedAt": "2021-04-30T17:03:54.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:363163",
@@ -3237,7 +3165,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/363163",
     "postedAt": "2021-04-30T15:13:48.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:360t:363124",
@@ -3249,7 +3177,7 @@
     "department": "Other",
     "url": "https://360t.jobs.personio.de/job/363124",
     "postedAt": "2021-04-30T14:32:10.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:308389",
@@ -3261,7 +3189,7 @@
     "department": "Engineering",
     "url": "https://smartbroker.jobs.personio.de/job/308389",
     "postedAt": "2021-01-20T14:14:01.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   },
   {
     "id": "personio:smartbroker:284821",
@@ -3273,6 +3201,6 @@
     "department": "Other",
     "url": "https://smartbroker.jobs.personio.de/job/284821",
     "postedAt": "2020-11-20T14:18:12.000Z",
-    "fetchedAt": "2026-10-18T17:27:49.042Z"
+    "fetchedAt": "2026-10-22T18:30:13.336Z"
   }
 ]

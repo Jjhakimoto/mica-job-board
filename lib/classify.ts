@@ -21,9 +21,12 @@ const DEPARTMENT_RULES: Array<{ department: Department; pattern: RegExp }> = [
     pattern: /\b(product manager|product owner|product designer|product)\b/i,
   },
   {
+    department: "Content",
+    pattern: /\b(content|copywriter|copywriting|editor|editorial|journalist)\b/i,
+  },
+  {
     department: "Marketing & Growth",
-    pattern:
-      /\b(marketing|growth|brand|content|community|communications|social media|seo|copywriter)\b/i,
+    pattern: /\b(marketing|growth|brand|community|communications|social media|seo)\b/i,
   },
   {
     department: "Sales & BD",
@@ -40,6 +43,14 @@ const DEPARTMENT_RULES: Array<{ department: Department; pattern: RegExp }> = [
       /\b(operations|ops|office manager|people|human resources|\bhr\b|talent|recruiter|recruiting|customer support|customer success|\bsupport\b)\b/i,
   },
 ];
+
+export function postedWithin(postedAt: string | null, days: number, now = Date.now()): boolean {
+  if (!Number.isFinite(days) || days <= 0) return true;
+  if (!postedAt) return false;
+  const time = new Date(postedAt).getTime();
+  if (Number.isNaN(time)) return false;
+  return now - time <= days * 24 * 60 * 60 * 1000;
+}
 
 export function classifyDepartment(title: string): Department {
   for (const rule of DEPARTMENT_RULES) {
